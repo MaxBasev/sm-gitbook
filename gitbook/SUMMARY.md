@@ -4,7 +4,7 @@
 
 ## 😶 RU
 
-* [Меню](ru/menyu.md)
+* [Меню](ru/menu.md)
 * [Работа с дашбордом](ru/rabota-s-dashbordom/README.md)
   * [Из чего состоит приложение (клиентская часть и часть администраторов)](ru/rabota-s-dashbordom/iz-chego-sostoit-prilozhenie-klientskaya-chast-i-chast-administratorov.md)
   * [Вход в приложение](ru/rabota-s-dashbordom/vkhod-v-prilozhenie.md)

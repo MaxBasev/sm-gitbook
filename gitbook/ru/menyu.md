@@ -12,11 +12,11 @@ layout: landing
 * [Создание нового пользователя](rabota-s-dashbordom/sozdanie-novogo-polzovatelya.md)
 * [Права и группы пользователей](rabota-s-dashbordom/prava-i-gruppy-polzovatelei.md)
 
-### Раздел To Do
+### [Раздел To Do](razdel-to-do/)
 
-* Задачи пользователя
-* Создание задач и назначение другим сотрудникам
-* Просмотр статистики
+* [Задачи пользователя](razdel-to-do/zadachi-polzovatelya.md)
+* [Создание задач и назначение другим сотрудникам](razdel-to-do/sozdanie-zadach-i-naznachenie-drugim-sotrudnikam.md)
+* [Просмотр статистики](razdel-to-do/prosmotr-statistiki.md)
 
 ### Календарь
 

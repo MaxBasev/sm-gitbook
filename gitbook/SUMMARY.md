@@ -11,6 +11,10 @@
   * [Основные элементы](ru/rabota-s-dashbordom/osnovnye-elementy.md)
   * [Создание нового пользователя](ru/rabota-s-dashbordom/sozdanie-novogo-polzovatelya.md)
   * [Права и группы пользователей](ru/rabota-s-dashbordom/prava-i-gruppy-polzovatelei.md)
+* [Раздел To Do](ru/razdel-to-do/README.md)
+  * [Задачи пользователя](ru/razdel-to-do/zadachi-polzovatelya.md)
+  * [Создание задач и назначение другим сотрудникам](ru/razdel-to-do/sozdanie-zadach-i-naznachenie-drugim-sotrudnikam.md)
+  * [Просмотр статистики](ru/razdel-to-do/prosmotr-statistiki.md)
 
 ## 😶 EN
 

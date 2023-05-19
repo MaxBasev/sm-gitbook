@@ -8,4 +8,4 @@
 
 ## 😶 EN
 
-* [Page 2](en/page-2.md)
+* [Menu](en/menu.md)

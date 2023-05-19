@@ -37,28 +37,28 @@
 * [Баланс](patient-record-section/balance.md)
 * [Дополнительные функции](patient-record-section/additional-features.md)
 
-### Раздел бронирования
+### [Раздел бронирования](booking-section/)
 
-* Просмотр всех бронирований
-* Создание нового бронирования
-* Редактирование бронирования
+* [Просмотр всех бронирований](booking-section/viewing-all-bookings.md)
+* [Создание нового бронирования](booking-section/creating-a-new-booking.md)
+* [Редактирование бронирования](booking-section/edit-booking.md)
 
-### Раздел инвойсов
+### [Раздел инвойсов](invoices-section/)
 
-* Последние инвойсы
-* Создание нового инвойса
-* Редактирование созданного инвойса
-* Шаблоны (создание, редактирование и применение)
-* Просмотр всех инвойсов
+* [Последние инвойсы](invoices-section/last-invoices.md)
+* [Создание нового инвойса](invoices-section/creating-new-invoice.md)
+* [Редактирование инвойса](invoices-section/edit-invoice.md)
+* [Шаблоны (создание, редактирование и применение)](invoices-section/templates.md)
+* [Просмотр всех инвойсов](invoices-section/see-all-invoices.md)
 
-### Раздел платежей&#x20;
+### [Раздел платежей](payments-section/)&#x20;
 
-* Просмотр статистики
-* Ввод расходов
+* [Просмотр статистики](to-do-section/viewing-statistics.md)
+* [Ввод расходов](payments-section/entering-expenses.md)
 
-### Раздел настроек
+### [Раздел настроек](settings-section/)
 
-* Настройка медицинских записей
-* Просмотр историй
-* Просмотр данных сотрудников&#x20;
-* Просмотр запросов на вывод средств
+* [Настройка медицинских записей](settings-section/configuring-medical-records.md)
+* [Просмотр историй](settings-section/viewing-histories.md)
+* [Просмотр данных сотрудников ](settings-section/viewing-employee-data.md)
+* [Просмотр запросов на вывод средств](settings-section/viewing-withdrawal-requests.md)

@@ -4,13 +4,13 @@ layout: landing
 
 # Меню
 
-### Работа с дашбордом
+### [Работа с дашбордом](rabota-s-dashbordom/)
 
-* Из чего состоит приложение (клиентская часть и часть администраторов)
-* Вход в приложение
-* Основные элементы
-* Создание нового пользователя
-* Права и группы пользователей
+* [Из чего состоит приложение (клиентсткая часть и часть администраторов)](rabota-s-dashbordom/iz-chego-sostoit-prilozhenie-klientskaya-chast-i-chast-administratorov.md)
+* [Вход в приложение](rabota-s-dashbordom/vkhod-v-prilozhenie.md)
+* [Основные элементы](rabota-s-dashbordom/osnovnye-elementy.md)
+* [Создание нового пользователя](rabota-s-dashbordom/sozdanie-novogo-polzovatelya.md)
+* [Права и группы пользователей](rabota-s-dashbordom/prava-i-gruppy-polzovatelei.md)
 
 ### Раздел To Do
 

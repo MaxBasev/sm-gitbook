@@ -2,40 +2,40 @@
 
 ### [Работа с дашбордом](work-with-dashboard/)
 
-* [Из чего состоит приложение (клиентсткая часть и часть администраторов)](work-with-dashboard/iz-chego-sostoit-prilozhenie-klientskaya-chast-i-chast-administratorov.md)
-* [Вход в приложение](work-with-dashboard/vkhod-v-prilozhenie.md)
-* [Основные элементы](work-with-dashboard/osnovnye-elementy.md)
-* [Создание нового пользователя](work-with-dashboard/sozdanie-novogo-polzovatelya.md)
-* [Права и группы пользователей](work-with-dashboard/prava-i-gruppy-polzovatelei.md)
+* [Из чего состоит приложение (клиентсткая часть и часть администраторов)](work-with-dashboard/application-components.md)
+* [Вход в приложение](work-with-dashboard/login-app.md)
+* [Основные элементы](work-with-dashboard/basic-control-elements.md)
+* [Создание нового пользователя](work-with-dashboard/new-user-create.md)
+* [Права и группы пользователей](work-with-dashboard/user-rights-and-groups.md)
 
-### [Раздел To Do](razdel-to-do/)
+### [Раздел To Do](to-do-section/)
 
-* [Задачи пользователя](razdel-to-do/zadachi-polzovatelya.md)
-* [Создание задач и назначение другим сотрудникам](razdel-to-do/sozdanie-zadach-i-naznachenie-drugim-sotrudnikam.md)
-* [Просмотр статистики](razdel-to-do/prosmotr-statistiki.md)
+* [Задачи пользователя](to-do-section/user-tasks.md)
+* [Создание задач и назначение другим сотрудникам](to-do-section/creating-tasks.md)
+* [Просмотр статистики](to-do-section/viewing-statistics.md)
 
-### [Календарь](kalendar/)
+### [Календарь](calendar-section/)
 
-* [Список текущих клиентов](kalendar/spisok-tekushikh-klientov.md)
-* [Отображение в виде таймлайна](kalendar/otobrazhenie-v-vide-taimlaina.md)
-* [Вывод на печать списка клиентов](kalendar/vyvod-na-pechat-spiska-klientov.md)
+* [Список текущих клиентов](calendar-section/list-of-current-clients.md)
+* [Отображение в виде таймлайна](calendar-section/displaying-as-a-timeline.md)
+* [Вывод на печать списка клиентов](calendar-section/printing-the-client-list.md)
 
-### [Раздел пациентов](razdel-pacientov/)
+### [Раздел пациентов](patients-section/)
 
-* [Список пациентов](razdel-pacientov/spisok-pacientov.md)
-* [Поиск по списку](razdel-pacientov/poisk-po-spisku.md)
-* [Создание нового пациента](razdel-pacientov/sozdanie-novogo-pacienta.md)
+* [Список пациентов](patients-section/list-of-patients.md)
+* [Поиск по списку](patients-section/search-clients.md)
+* [Создание нового пациента](patients-section/create-new-patient.md)
 
-### [Раздел Patient Record](razdel-patient-record/)
+### [Раздел Patient Record](patient-record-section/)
 
-* [Основные данные клиента](razdel-patient-record/osnovnye-dannye-klienta.md)
-* [Просмотре заказов клиента](razdel-patient-record/prosmotr-zakazov-klienta.md)
-* [Просмотр инвойсов](razdel-patient-record/prosmotr-invoisov.md)
-* [Медицинские записи](razdel-patient-record/medicinskie-zapisi.md)
-* [Список процедур](razdel-patient-record/spisok-procedur.md)
-* [Расписание](razdel-patient-record/raspisanie.md)
-* [Баланс](razdel-patient-record/balans.md)
-* [Дополнительные функции](razdel-patient-record/dopolnitelnye-funkcii.md)
+* [Основные данные клиента](patient-record-section/basic-client-information.md)
+* [Просмотре заказов клиента](patient-record-section/viewing-client-orders.md)
+* [Просмотр инвойсов](patient-record-section/viewing-invoices.md)
+* [Медицинские записи](patient-record-section/medical-records.md)
+* [Список процедур](patient-record-section/list-of-procedures.md)
+* [Расписание](patient-record-section/schedule.md)
+* [Баланс](patient-record-section/balance.md)
+* [Дополнительные функции](patient-record-section/additional-features.md)
 
 ### Раздел бронирования
 

@@ -4,8 +4,8 @@
 
 Основные вопросы:
 
-* [Из чего состоит приложение (клиентская часть и часть администраторов)](iz-chego-sostoit-prilozhenie-klientskaya-chast-i-chast-administratorov.md)
-* [Вход в приложение](vkhod-v-prilozhenie.md)
-* [Основные элементы](osnovnye-elementy.md)
-* [Создание нового пользователя](sozdanie-novogo-polzovatelya.md)
-* [Права и группы пользователей](prava-i-gruppy-polzovatelei.md)
+* [Из чего состоит приложение (клиентская часть и часть администраторов)](application-components.md)
+* [Вход в приложение](login-app.md)
+* [Основные элементы](basic-control-elements.md)
+* [Создание нового пользователя](new-user-create.md)
+* [Права и группы пользователей](user-rights-and-groups.md)

@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Меню
 
 ### [Работа с дашбордом](rabota-s-dashbordom/)
@@ -18,17 +14,17 @@ layout: landing
 * [Создание задач и назначение другим сотрудникам](razdel-to-do/sozdanie-zadach-i-naznachenie-drugim-sotrudnikam.md)
 * [Просмотр статистики](razdel-to-do/prosmotr-statistiki.md)
 
-### Календарь
+### [Календарь](kalendar/)
 
-* Список текущих клиентов
-* Отображение в виде таймлайна
-* Вывод на печать списка клиентов
+* [Список текущих клиентов](kalendar/spisok-tekushikh-klientov.md)
+* [Отображение в виде таймлайна](kalendar/otobrazhenie-v-vide-taimlaina.md)
+* [Вывод на печать списка клиентов](kalendar/vyvod-na-pechat-spiska-klientov.md)
 
-### Раздел пациентов
+### [Раздел пациентов](razdel-pacientov/)
 
-* Список пациентов
-* Поиск по списку
-* Создание нового пациента
+* [Список пациентов](razdel-pacientov/spisok-pacientov.md)
+* [Поиск по списку](razdel-pacientov/poisk-po-spisku.md)
+* [Создание нового пациента](razdel-pacientov/sozdanie-novogo-pacienta.md)
 
 ### Раздел Patient Record
 

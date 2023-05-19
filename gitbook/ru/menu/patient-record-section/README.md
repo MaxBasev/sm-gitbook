@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # Раздел Patient Record
 
 Основные вопросы:

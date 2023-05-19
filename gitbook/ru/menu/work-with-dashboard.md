@@ -8,31 +8,35 @@ layout: landing
 
 Основные вопросы:
 
-* [Из чего состоит приложение (клиентская часть и часть администраторов)](./#client-admin-parts)
-* [Вход в приложение](login-app.md)
-* [Основные элементы](basic-control-elements.md)
-* [Создание нового пользователя](new-user-create.md)
-* [Права и группы пользователей](user-rights-and-groups.md)
+* [Из чего состоит приложение (клиентская часть)](work-with-dashboard.md#client-admin-parts)
+* [Страница бронирования](work-with-dashboard.md#booking-page)
+* [Часть администраторов](work-with-dashboard.md#admin-section)
+* [Вход в приложение](work-with-dashboard.md#admin-login)
+* [Основные элементы](broken-reference)
+* [Создание нового пользователя](broken-reference)
+* [Права и группы пользователей](broken-reference)
 
-#### Из чего состоит приложение (клиентская часть и часть администраторов) <a href="#client-admin-parts" id="client-admin-parts"></a>
+### Из чего состоит приложение (клиентская часть) <a href="#client-admin-parts" id="client-admin-parts"></a>
 
-### Клиентская часть
+#### Клиентская часть
 
 Основная ссылка - [https://sybillehealth.com/](https://sybillehealth.com/). На нее клиент попадает в случае перехода по реферальной ссылке от другого пользователя.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Страница бронирования через которую клиенты могут сделать бронь - [https://sybillehealth.com/booking/](https://sybillehealth.com/booking/)
+#### Страница бронирования  <a href="#booking-page" id="booking-page"></a>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+Через эту страницу клиенты могут сделать бронь - [https://sybillehealth.com/booking/](https://sybillehealth.com/booking/)
+
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Выбирается продолжительность, дата заезда, вводится информация о госте(гостях) и выбирается номер из списка доступных.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 После ввода всех данных и нажатия кнопки "Proceed to Payment" происходит переход на страницу оплаты.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Оплата происходит с помощью сервиса PayPal. 400$ за человека. На оплату дается 60 минут, если за этот промежуток бронь не оплачена, то она становится "Expired" и номер освобождается.&#x20;
 
@@ -40,19 +44,21 @@ layout: landing
 
 
 
-### Часть администраторов
+### Часть администраторов <a href="#admin-section" id="admin-section"></a>
+
+#### Вход в систему <a href="#admin-login" id="admin-login"></a>
 
 Для входа в систему сотруднику нужно перейти по ссылке - [https://sybillehealth.com/dashboard](https://sybillehealth.com/dashboard).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Выбираем аккаунт с помощью которого хотим зайти (если их несколько в браузере).
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 После входа в систему, пользователь увидит примерно такой экран (по умолчанию это секция To Do пользователя):
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 1. Основное меню
 2. Кнопка профиля - выход из аккаунта

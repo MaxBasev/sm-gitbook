@@ -5,12 +5,7 @@
 ## 😶 RU
 
 * [Меню](ru/menu/README.md)
-  * [Работа с дашбордом](ru/menu/work-with-dashboard/README.md)
-    * [Из чего состоит приложение (клиентская часть и часть администраторов)](ru/menu/work-with-dashboard/application-components.md)
-    * [Вход в приложение](ru/menu/work-with-dashboard/login-app.md)
-    * [Основные элементы](ru/menu/work-with-dashboard/basic-control-elements.md)
-    * [Создание нового пользователя](ru/menu/work-with-dashboard/new-user-create.md)
-    * [Права и группы пользователей](ru/menu/work-with-dashboard/user-rights-and-groups.md)
+  * [Работа с дашбордом](ru/menu/work-with-dashboard.md)
   * [Раздел To Do](ru/menu/to-do-section/README.md)
     * [Задачи пользователя](ru/menu/to-do-section/user-tasks.md)
     * [Создание задач и назначение другим сотрудникам](ru/menu/to-do-section/creating-tasks.md)

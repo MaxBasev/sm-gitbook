@@ -1,12 +1,12 @@
 # Меню
 
-### [Работа с дашбордом](work-with-dashboard/)
+### [Работа с дашбордом](work-with-dashboard.md)
 
-* [Из чего состоит приложение (клиентсткая часть и часть администраторов)](work-with-dashboard/application-components.md)
-* [Вход в приложение](work-with-dashboard/login-app.md)
-* [Основные элементы](work-with-dashboard/basic-control-elements.md)
-* [Создание нового пользователя](work-with-dashboard/new-user-create.md)
-* [Права и группы пользователей](work-with-dashboard/user-rights-and-groups.md)
+* [Из чего состоит приложение (клиентсткая часть и часть администраторов)](broken-reference)
+* [Вход в приложение](broken-reference)
+* [Основные элементы](broken-reference)
+* [Создание нового пользователя](broken-reference)
+* [Права и группы пользователей](broken-reference)
 
 ### [Раздел To Do](to-do-section/)
 

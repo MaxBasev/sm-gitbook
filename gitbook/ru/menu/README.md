@@ -1,18 +1,18 @@
 # Меню
 
-### [Работа с дашбордом](rabota-s-dashbordom/)
+### [Работа с дашбордом](work-with-dashboard/)
 
-* [Из чего состоит приложение (клиентсткая часть и часть администраторов)](rabota-s-dashbordom/iz-chego-sostoit-prilozhenie-klientskaya-chast-i-chast-administratorov.md)
-* [Вход в приложение](rabota-s-dashbordom/vkhod-v-prilozhenie.md)
-* [Основные элементы](rabota-s-dashbordom/osnovnye-elementy.md)
-* [Создание нового пользователя](rabota-s-dashbordom/sozdanie-novogo-polzovatelya.md)
-* [Права и группы пользователей](rabota-s-dashbordom/prava-i-gruppy-polzovatelei.md)
+* [Из чего состоит приложение (клиентсткая часть и часть администраторов)](work-with-dashboard/iz-chego-sostoit-prilozhenie-klientskaya-chast-i-chast-administratorov.md)
+* [Вход в приложение](work-with-dashboard/vkhod-v-prilozhenie.md)
+* [Основные элементы](work-with-dashboard/osnovnye-elementy.md)
+* [Создание нового пользователя](work-with-dashboard/sozdanie-novogo-polzovatelya.md)
+* [Права и группы пользователей](work-with-dashboard/prava-i-gruppy-polzovatelei.md)
 
-### [Раздел To Do](razdel-to-do/)
+### [Раздел To Do](to-do-section/)
 
-* [Задачи пользователя](razdel-to-do/zadachi-polzovatelya.md)
-* [Создание задач и назначение другим сотрудникам](razdel-to-do/sozdanie-zadach-i-naznachenie-drugim-sotrudnikam.md)
-* [Просмотр статистики](razdel-to-do/prosmotr-statistiki.md)
+* [Задачи пользователя](to-do-section/zadachi-polzovatelya.md)
+* [Создание задач и назначение другим сотрудникам](to-do-section/sozdanie-zadach-i-naznachenie-drugim-sotrudnikam.md)
+* [Просмотр статистики](to-do-section/prosmotr-statistiki.md)
 
 ### [Календарь](kalendar/)
 

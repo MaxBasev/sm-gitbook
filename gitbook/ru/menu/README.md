@@ -8,11 +8,11 @@
 * [Создание нового пользователя](work-with-dashboard/sozdanie-novogo-polzovatelya.md)
 * [Права и группы пользователей](work-with-dashboard/prava-i-gruppy-polzovatelei.md)
 
-### [Раздел To Do](to-do-section/)
+### [Раздел To Do](razdel-to-do/)
 
-* [Задачи пользователя](to-do-section/zadachi-polzovatelya.md)
-* [Создание задач и назначение другим сотрудникам](to-do-section/sozdanie-zadach-i-naznachenie-drugim-sotrudnikam.md)
-* [Просмотр статистики](to-do-section/prosmotr-statistiki.md)
+* [Задачи пользователя](razdel-to-do/zadachi-polzovatelya.md)
+* [Создание задач и назначение другим сотрудникам](razdel-to-do/sozdanie-zadach-i-naznachenie-drugim-sotrudnikam.md)
+* [Просмотр статистики](razdel-to-do/prosmotr-statistiki.md)
 
 ### [Календарь](kalendar/)
 
@@ -26,16 +26,16 @@
 * [Поиск по списку](razdel-pacientov/poisk-po-spisku.md)
 * [Создание нового пациента](razdel-pacientov/sozdanie-novogo-pacienta.md)
 
-### Раздел Patient Record
+### [Раздел Patient Record](razdel-patient-record/)
 
-* Основные данные клиента
-* Просмотре заказов клиента
-* Просмотр инвойсов
-* Медицинские записи
-* Список процедур
-* Расписание
-* Баланс
-* Дополнительные функции
+* [Основные данные клиента](razdel-patient-record/osnovnye-dannye-klienta.md)
+* [Просмотре заказов клиента](razdel-patient-record/prosmotr-zakazov-klienta.md)
+* [Просмотр инвойсов](razdel-patient-record/prosmotr-invoisov.md)
+* [Медицинские записи](razdel-patient-record/medicinskie-zapisi.md)
+* [Список процедур](razdel-patient-record/spisok-procedur.md)
+* [Расписание](razdel-patient-record/raspisanie.md)
+* [Баланс](razdel-patient-record/balans.md)
+* [Дополнительные функции](razdel-patient-record/dopolnitelnye-funkcii.md)
 
 ### Раздел бронирования
 

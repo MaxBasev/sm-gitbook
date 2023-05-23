@@ -22,7 +22,7 @@ layout: landing
 
 Основная ссылка - [https://sybillehealth.com/](https://sybillehealth.com/). На нее клиент попадает в случае перехода по реферальной ссылке от другого пользователя.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Страница бронирования  <a href="#booking-page" id="booking-page"></a>
 

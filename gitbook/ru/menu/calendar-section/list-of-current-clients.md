@@ -6,7 +6,7 @@ layout: landing
 
 При переходе  на страницу Календаря, по умолчанию открывается список всех клиентов за текущую неделю.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-23 at 20.49.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-23 at 20.49.16 (1).png" alt=""><figcaption></figcaption></figure>
 
 На изображении:
 

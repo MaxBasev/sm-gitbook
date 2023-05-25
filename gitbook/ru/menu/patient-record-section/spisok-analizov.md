@@ -10,7 +10,7 @@
 
 Список анализов клиента выглядит следующим образом:
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-05-25 at 16.58.54 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 16.58.54 (1).png" alt=""><figcaption></figcaption></figure>
 
 1 — Кнопка обновления списка анализов.
 
@@ -30,7 +30,7 @@
 
 При переходе по ссылке для просмотра конкретного списка анализов отдельно (6), открывается окно следующего вида:
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-05-25 at 17.13.13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 17.13.13.png" alt=""><figcaption></figcaption></figure>
 
 Помимо самого списка, на странице расположены кнопки для возвращения назад (левый верхний и левый нижний углы), а также кнопка сохранения списка в формате PDF (правый верхний угол под основным меню). Вид списка, представленный на этой странице, сохраняется и в файле.
 
@@ -43,11 +43,11 @@
 
 По аналогии с созданием медицинской записи, при создании нового списка анализов через кнопку создания на странице клиента, в начале странице расположена ссылка назад, далее краткая информация о клиенте, которому добавляется запись, и дата на которую хотят сделать запись, как показано на изображении ниже. Кнопка сохранения находится внизу страницы.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-05-25 at 17.41.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 17.41.42.png" alt=""><figcaption></figcaption></figure>
 
 Форма для внесения анализов и при создании медицинской записи, и при создании списка отдельно, выглядит следующим образом:
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-05-25 at 17.20.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 17.20.09.png" alt=""><figcaption></figcaption></figure>
 
 1 — Поле поиска/фильтрации.
 
@@ -77,4 +77,4 @@
 
 Пример редактирования списка анализов:
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2023-05-25 at 19.35.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 19.35.50.png" alt=""><figcaption></figcaption></figure>

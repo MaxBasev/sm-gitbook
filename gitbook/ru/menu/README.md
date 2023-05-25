@@ -30,7 +30,7 @@
 
 * [Основные данные клиента](patient-record-section/basic-client-information.md)
 * [Просмотре заказов клиента](patient-record-section/viewing-client-orders.md)
-* [Просмотр инвойсов](patient-record-section/viewing-invoices/)
+* [Просмотр инвойсов](patient-record-section/viewing-invoices.md)
 * [Медицинские записи](patient-record-section/medical-records.md)
 * [Список процедур](patient-record-section/list-of-procedures.md)
 * [Расписание](patient-record-section/schedule.md)

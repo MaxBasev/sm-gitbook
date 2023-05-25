@@ -8,7 +8,7 @@ layout: landing
 
 * [Основные данные клиента](basic-client-information.md)
 * [Просмотре заказов клиента](viewing-client-orders.md)
-* [Просмотр инвойсов](viewing-invoices/)
+* [Просмотр инвойсов](viewing-invoices.md)
 * [Медицинские записи](medical-records.md)
 * [Список процедур](list-of-procedures.md)
 * [Расписание](schedule.md)

@@ -24,6 +24,7 @@
     * [Просмотр заказов клиента](ru/menu/patient-record-section/viewing-client-orders.md)
     * [Просмотр инвойсов](ru/menu/patient-record-section/viewing-invoices.md)
     * [Медицинские записи](ru/menu/patient-record-section/medical-records.md)
+    * [Список анализов](ru/menu/patient-record-section/spisok-analizov.md)
     * [Список процедур](ru/menu/patient-record-section/list-of-procedures.md)
     * [Расписание](ru/menu/patient-record-section/schedule.md)
     * [Баланс](ru/menu/patient-record-section/balance.md)

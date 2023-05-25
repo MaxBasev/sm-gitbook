@@ -18,6 +18,7 @@
     * [Список пациентов](ru/menu/patients-section/list-of-patients.md)
     * [Поиск по списку](ru/menu/patients-section/search-clients.md)
     * [Создание нового пациента](ru/menu/patients-section/create-new-patient.md)
+    * [Редактирование данных пациента](ru/menu/patients-section/redaktirovanie-dannykh-pacienta.md)
   * [Раздел Patient Record](ru/menu/patient-record-section/README.md)
     * [Основные данные клиента](ru/menu/patient-record-section/basic-client-information.md)
     * [Просмотр заказов клиента](ru/menu/patient-record-section/viewing-client-orders.md)

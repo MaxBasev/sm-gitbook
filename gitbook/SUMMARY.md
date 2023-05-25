@@ -27,6 +27,7 @@
     * [Список анализов](ru/menu/patient-record-section/spisok-analizov.md)
     * [Список процедур](ru/menu/patient-record-section/list-of-procedures.md)
     * [Расписание](ru/menu/patient-record-section/schedule.md)
+    * [Опросы](ru/menu/patient-record-section/oprosy.md)
     * [Баланс](ru/menu/patient-record-section/balance.md)
     * [Дополнительные функции](ru/menu/patient-record-section/additional-features.md)
   * [Раздел бронирования](ru/menu/booking-section/README.md)

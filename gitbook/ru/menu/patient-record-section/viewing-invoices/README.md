@@ -6,7 +6,7 @@ layout: landing
 
 При нажатии на странице клиента на пункт меню Инвойсы, в правой части страницы открывается список всех инвойсов клиента.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-24 at 21.16.44 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-05-24 at 21.16.44 (1).png" alt=""><figcaption></figcaption></figure>
 
 В верхнем левом углу расположена информация об общей стоимости всех активных инвойсов клиента (1).
 
@@ -14,7 +14,7 @@ layout: landing
 
 При нажатии на карточку раскрывается полный вид инвойса с управляющими кнопками справа над инвойсом, как показано на изображении ниже.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-24 at 21.26.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2023-05-24 at 21.26.35.png" alt=""><figcaption></figcaption></figure>
 
 Среди управляющих кнопок:
 

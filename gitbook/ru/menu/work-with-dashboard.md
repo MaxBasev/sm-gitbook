@@ -36,7 +36,7 @@ layout: landing
 
 После ввода всех данных и нажатия кнопки "Proceed to Payment" происходит переход на страницу оплаты.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Оплата происходит с помощью сервиса PayPal. 400$ за человека. На оплату дается 60 минут, если за этот промежуток бронь не оплачена, то она становится "Expired" и номер освобождается.&#x20;
 

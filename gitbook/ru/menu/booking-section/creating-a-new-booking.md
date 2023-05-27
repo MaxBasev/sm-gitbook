@@ -10,7 +10,7 @@ layout: landing
 
 После откроется окно всего с одним полем —  для ввода даты заезда. При нажатии на поле всплывает специальная форма выбора даты:
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 После выбора даты появляется кнопка для добавления клиента:
 

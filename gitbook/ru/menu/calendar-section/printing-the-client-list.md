@@ -12,7 +12,7 @@ layout: landing
 
 При нажатии на кнопку печати (2) открывается меню, выбора ориентации будущего PDF файла:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Примеры итогового файла PDF:
 

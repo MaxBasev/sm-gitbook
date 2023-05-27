@@ -28,7 +28,7 @@ layout: landing
 
 Через эту страницу клиенты могут сделать бронь - [https://sybillehealth.com/booking/](https://sybillehealth.com/booking/)
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выбирается продолжительность, дата заезда, вводится информация о госте(гостях) и выбирается номер из списка доступных.&#x20;
 

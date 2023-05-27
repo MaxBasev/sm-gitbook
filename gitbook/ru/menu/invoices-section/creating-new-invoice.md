@@ -36,7 +36,7 @@ layout: landing
 
 6 — Оздоровительная программа. Поле не обязательное. При нажатии на поле, открывается список доступных программ. После выбора программ появляется новое поле с выбором пакета:
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 При выборе оздоровительной программы, выбор пакета обязателен.
 

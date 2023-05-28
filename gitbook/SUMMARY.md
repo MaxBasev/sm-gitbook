@@ -44,8 +44,7 @@
     * [Просмотр статистики](ru/menu/payments-section/viewing-statistics.md)
     * [Ввод расходов](ru/menu/payments-section/entering-expenses.md)
   * [Раздел настроек](ru/menu/settings-section/README.md)
-    * [Настройка медицинских записей](ru/menu/settings-section/configuring-medical-records.md)
-    * [Просмотр историй](ru/menu/settings-section/viewing-histories.md)
+    * [Медицинские записи: просмотр историй](ru/menu/settings-section/viewing-histories.md)
     * [Просмотр данных сотрудников](ru/menu/settings-section/viewing-employee-data.md)
     * [Просмотр запросов на вывод средств](ru/menu/settings-section/viewing-withdrawal-requests.md)
 

@@ -58,7 +58,7 @@
 
 ### [Раздел настроек](settings-section/)
 
-* [Настройка медицинских записей](settings-section/configuring-medical-records.md)
+* [Настройка медицинских записей](broken-reference)
 * [Просмотр историй](settings-section/viewing-histories.md)
 * [Просмотр данных сотрудников ](settings-section/viewing-employee-data.md)
 * [Просмотр запросов на вывод средств](settings-section/viewing-withdrawal-requests.md)

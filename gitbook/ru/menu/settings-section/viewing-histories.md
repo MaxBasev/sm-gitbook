@@ -16,7 +16,7 @@ layout: landing
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-28 at 17.16.57 (1).png" alt=""><figcaption></figcaption></figure>
 
-1 — Навигация по страницам истории.
+1 — Навигация по странице настроек.
 
 2 — Поля ввода периода, за который необходимо просмотреть историю.
 

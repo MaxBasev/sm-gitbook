@@ -11,5 +11,4 @@ layout: landing
 Основные вопросы:
 
 * [Медицинские записи: просмотр историй](viewing-histories.md)
-* [Просмотр данных сотрудников ](viewing-employee-data.md)
 * [Просмотр запросов на вывод средств](viewing-withdrawal-requests.md)

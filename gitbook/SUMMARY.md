@@ -46,6 +46,7 @@
   * [Раздел настроек](ru/menu/settings-section/README.md)
     * [Медицинские записи: просмотр историй](ru/menu/settings-section/viewing-histories.md)
     * [Просмотр запросов на вывод средств](ru/menu/settings-section/viewing-withdrawal-requests.md)
+  * [Личный кабинет пациента](ru/menu/lichnyi-kabinet-pacienta.md)
 
 ## 😶 EN
 

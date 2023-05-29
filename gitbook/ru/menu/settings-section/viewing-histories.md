@@ -6,7 +6,7 @@ layout: landing
 
 Раздел медицинских записей состоит из следующих частей:
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 * История медицинских записей.
 * История назначений анализов.
@@ -28,7 +28,7 @@ layout: landing
 
 #### Пример записи в истории медицинских записей:
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Запись состоит из:
 
@@ -42,7 +42,7 @@ layout: landing
 
 #### Пример записи в истории назначений анализов:
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 Запись состоит из следующих частей:
 

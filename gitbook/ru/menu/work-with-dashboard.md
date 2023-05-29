@@ -22,13 +22,13 @@ layout: landing
 
 Основная ссылка - [https://sybillehealth.com/](https://sybillehealth.com/). На нее клиент попадает в случае перехода по реферальной ссылке от другого пользователя.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Страница бронирования  <a href="#booking-page" id="booking-page"></a>
 
 Через эту страницу клиенты могут сделать бронь - [https://sybillehealth.com/booking/](https://sybillehealth.com/booking/)
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выбирается продолжительность, дата заезда, вводится информация о госте(гостях) и выбирается номер из списка доступных.&#x20;
 
@@ -54,7 +54,7 @@ layout: landing
 
 Выбираем аккаунт с помощью которого хотим зайти (если их несколько в браузере).
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Основные элементы <a href="#basic-elements" id="basic-elements"></a>
 

@@ -45,8 +45,8 @@ layout: landing
 
 При нажатии на кнопку редактирования записи, появляется форма следующего вида:
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Также предусмотрена возможность просмотреть сумму выборочных расходов. Для этого, необходимо выделить интересующие расходы нажатием на запись. Внизу страницы появится панель: слева расположена кнопка очистить выделение; справа - сумма выделенных записей.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

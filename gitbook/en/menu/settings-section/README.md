@@ -2,13 +2,13 @@
 layout: landing
 ---
 
-# Раздел настроек
+# Settings section
 
-Раздел настроек доступен только для пользователей с определёнными ролями и состоит из трёх подразделов:
+The settings section is only available to users with specific roles and consists of three subsections:
 
 <figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-Основные вопросы:
+Key questions:
 
-* [Медицинские записи: просмотр историй](../../../ru/menu/settings-section/viewing-histories.md)
-* [Просмотр запросов на вывод средств](../../../ru/menu/settings-section/viewing-withdrawal-requests.md)
+* [Medical Records: Viewing history](viewing-histories.md)
+* [Viewing withdrawal requests](viewing-withdrawal-requests.md)

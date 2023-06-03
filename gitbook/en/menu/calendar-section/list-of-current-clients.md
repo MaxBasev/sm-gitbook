@@ -2,22 +2,22 @@
 layout: landing
 ---
 
-# Список текущих клиентов
+# List of Current Clients
 
-При переходе  на страницу Календаря, по умолчанию открывается список всех клиентов за текущую неделю.
+When navigating to the Calendar page, by default, the list of all clients for the current week is displayed.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-23 at 20.49.16 (1).png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Панель выбора периода, за который необходимо просмотреть информацию. Можно выбрать зарезервированный период (текущая неделя, следующая неделя, текущий месяц, следующий месяц, текущий год) или указать период просмотра вручную, нажав кнопку Custom.
+1 — Period selection panel: It allows choosing the period for viewing the information. Users can select predefined periods such as the current week, next week, current month, next month, or current year. Alternatively, they can manually specify a custom period by clicking the "Custom" button.
 
-2 — Выбор представления календаря: в виде списка-таблицы (по умолчанию) или в виде диаграммы.&#x20;
+2 — Calendar view selection: Users can choose between a list view (default) or a diagram view.
 
-3 — Выбор столбцов для отображения в списке.
+3 — Column selection for display in the list.
 
-4 — Список клиентов.
+4 — List of clients: It displays the clients associated with the selected period.
 
-5 — Кнопка сохранения списка в виде файла PDF.
+5 — Button for saving the list as a PDF file.
 
-6 — Всплывающая панель с информацией о бронировании выбранного клиента. Клиент выбирается путем нажатия на строку в списке.&#x20;
+6 — Pop-up panel with information about the booking of the selected client. The client is selected by clicking on the corresponding row in the list.

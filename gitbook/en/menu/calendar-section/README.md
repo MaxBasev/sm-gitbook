@@ -2,10 +2,10 @@
 layout: landing
 ---
 
-# Календарь
+# Calendar
 
-Основные вопросы:
+Key questions:
 
-* [Список текущих клиентов](../../../ru/menu/calendar-section/list-of-current-clients.md)
-* [Отображение в виде таймлайна](../../../ru/menu/calendar-section/displaying-as-a-timeline.md)
-* [Вывод на печать списка клиентов](../../../ru/menu/calendar-section/printing-the-client-list.md)
+* List of current clients&#x20;
+* Displaying as a timeline
+* Printing the list of clients

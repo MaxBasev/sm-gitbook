@@ -1,0 +1,14 @@
+---
+layout: landing
+---
+
+# Раздел настроек
+
+Раздел настроек доступен только для пользователей с определёнными ролями и состоит из трёх подразделов:
+
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+Основные вопросы:
+
+* [Медицинские записи: просмотр историй](../../../ru/menu/settings-section/viewing-histories.md)
+* [Просмотр запросов на вывод средств](../../../ru/menu/settings-section/viewing-withdrawal-requests.md)

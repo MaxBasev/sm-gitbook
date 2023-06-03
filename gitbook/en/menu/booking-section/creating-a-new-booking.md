@@ -2,81 +2,81 @@
 layout: landing
 ---
 
-# Создание нового бронирования
+# Creating a new booking
 
-Чтобы создать новое бронирование, необходимо перейти по ссылке в главном меню "Бронирование" ➡️ "Создать новое", как показано на изображении:
+To create a new booking, you need to click on the "Booking" ➡️ "Create New" link in the main menu, as shown in the image:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 16.03.42 (1).png" alt=""><figcaption></figcaption></figure>
 
-После откроется окно всего с одним полем —  для ввода даты заезда. При нажатии на поле всплывает специальная форма выбора даты:
+After that, a window will open with only one field for entering the check-in date. Clicking on the field will display a special date selection form:
 
 <figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
-После выбора даты появляется кнопка для добавления клиента:
+After selecting the date, a button for adding a client will appear:
 
 <figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-После нажатия на кнопку добавления пациента, появляется форма ввода данных гостя в рамках заказа, а кнопка добавления пациента смещается под форму. При каждом нажатии на кнопку, появляется новая форма — таким образом в заказ добавляется необходимое количество клиентов.
+Upon clicking the "Add Client" button, a data entry form for the guest within the booking will appear, and the "Add Client" button will move below the form. Each click on the button will display a new form, allowing you to add the required number of clients to the booking.
 
-Форма ввода данных для гостя выглядит следующим образом:
+The data entry form for the guest looks as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 16.13.45.png" alt=""><figcaption></figcaption></figure>
 
-1 — Убрать гостя из заказа.
+1 — Remove the guest from the booking.&#x20;
 
-2 — Типа клиента: новый клиент или клиент, уже существующий в системе.
+2 — Client type: new client or client already existing in the system.&#x20;
 
-3 — Поля ввода данных нового клиента (все поля обязательны для заполнения).
+3 — Input fields for the new client's data (all fields are mandatory).&#x20;
 
-4 — Статус клиента в заказе.
-
-{% hint style="info" %}
-**Обратите внимание!**
-
-В систем предусмотрено два статуса клиента.
-
-1. Пациент — клиент, который приезжает в клинику на процедуры.
-2. Сопровождающее лицо — клиент, который не проходит никаких процедур, а только останавливается в одной из комнат клиники. Для таких клиентов предусмотрено дополнительное поле "Питание", которое оплачивается отдельно.
-
-При создании бронирования через систему Букинга, на каждого пациента возможен только один сопровождающий.
-{% endhint %}
-
-5 — Комната, в которой остановится клиент.
+4 — Client status in the booking.
 
 {% hint style="info" %}
-**Обратите внимание!**
+**Please note!**
 
-В системе Дашборд предусмотрена специальная комната/локация "Посетитель" ("Visiting"), которую необходимо использовать для приходящих клиентов, которым нет необходимости останавливаться в комнатах клиники.
+The system has two client statuses.
+
+1. Patient: a client who comes to the clinic for procedures.
+2. Companion: a client who does not undergo any procedures but stays in one of the clinic's rooms. For such clients, there is an additional "Meal" field, which is paid separately.
+
+When creating a booking through the Booking system, only one companion is allowed per patient.
 {% endhint %}
 
-6 — Комментарий, который будет виден у клиента в личном кабинете.
+5 — Room where the client will stay.
 
-7 — Комментарий, который виден только пользователям Дашборда.
+{% hint style="info" %}
+**Please note!**
 
-Если пользователь уже есть в системе, то поле выбора клиента будет выглядеть следующим образом:
+The Dashboard system has a special room/location called "Visiting", which should be used for incoming clients who do not need to stay in the clinic's rooms.
+{% endhint %}
+
+6 — Comment visible to the client in their personal account.&#x20;
+
+7 — Comment visible only to Dashboard users.
+
+If the client already exists in the system, the client selection field will look as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 16.15.02.png" alt=""><figcaption></figcaption></figure>
 
-На изображении: поле поиска клиента и выпадающий список всех клиентов системы. Чтобы выбрать пользователя, недостаточно просто ввести его данные, необходимо нажать на пользователя в выпадающем списке.
+In the image: a client search field and a dropdown list of all system clients. To select a user, it is not enough to simply enter their data; you need to click on the client in the dropdown list.
 
-Если клиент, добавляемый в заказ, не является будущим пациентом, то данные будут выглядеть следующим образом:
+If the client being added to the booking is not a future patient, the data will look as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 16.16.15.png" alt=""><figcaption></figcaption></figure>
 
-На изображении видно, что статус клиента изменился на "Сопровождающее лицо" и появилось поле включения к заказу оплаты питания.
+In the image, you can see that the client's status has changed to "Companion," and a field for adding meal payment to the booking has appeared.
 
-Внизу страницы, после добавления клиентов к заказу, указываются следующие данные:
+At the bottom of the page, after adding clients to the booking, the following data is specified:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 16.49.41.png" alt=""><figcaption></figcaption></figure>
 
-1 — Количество дней пребывания в клинике и 2 — Дата выезда. Эти два поля связаны, поэтому можно изменить любое из них и другое вычислится автоматически. По умолчанию при создании нового заказа, указывается срок пребывания в клиники на 7 дней и 6 ночей.
+1 — Number of days of stay in the clinic, and 2 — Check-out date. These two fields are linked, so you can change either one, and the other will be automatically calculated. By default, when creating a new booking, the stay duration in the clinic is set to 7 days and 6 nights.
 
-3 — Общая цена заказа. Данное поле вычисляется автоматически и вручную не изменяется.
+3 — Total price of the booking. This field is calculated automatically and cannot be manually changed.
 
-4 — Поле ввода предоплаты.
+4 — Prepayment input field.
 
-5 — Кнопка создания заказа.
+5 — Create Booking button.
 
-Если поле предоплаты не заполнено, то после сохранения заказа, заказ получает статус "Ожидает подтверждение", и истекает по истечению часа от времени создания заказа, в случае если заказ не подтверждается.
+If the prepayment field is not filled in, after saving the booking, it will have the status "Awaiting Confirmation" and will expire after one hour from the booking creation time if not confirmed.
 
-После создания заказа открывается страница редактирования этого заказа.
+After creating the booking, the page for editing the booking will open.

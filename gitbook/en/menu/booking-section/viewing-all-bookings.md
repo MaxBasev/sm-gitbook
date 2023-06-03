@@ -2,71 +2,71 @@
 layout: landing
 ---
 
-# Просмотр всех бронирований
+# Viewing all bookings
 
-Для просмотра всех бронирований, необходимо перейти из главного меню в пункт "Бронирование" ➡️ "Просмотреть всё".
+To view all bookings, you need to go from the main menu to the "Bookings" ➡️ "View All" section.
 
-Открывшаяся страница будет выглядеть следующим образом:
+The opened page will look as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 14.02.44.png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Поле поиска по списку (поиск осуществляется по всем столбцам таблицы).
+1 — Search field for the list (search is performed across all columns of the table).&#x20;
 
-2 — Фильтрация по статусу бронирования (всё, полностью оплаченные, внесена предоплата, ожидается подтверждение, отменённые, просроченные).
+2 — Filtering by booking status (all, fully paid, partial payment made, awaiting confirmation, canceled, expired).&#x20;
 
-3 — Фильтрация по создателю бронирования из числа пользователей системы Дашборд.
+3 — Filtering by the creator of the booking from among the Dashboard system users.&#x20;
 
-4 — Обновление списка.
+4 — Refreshing the list.&#x20;
 
-5 — Список всех бронирований в виде таблицы. Таблица состоит из следующих столбцов:
+5 — List of all bookings displayed as a table. The table consists of the following columns:
 
-* дата создания бронирования;&#x20;
-* дата въезда;
-* дата выезда;
-* количество гостей;
-* общая сумма бронирования;
-* размер внесённой предоплаты;
-* статус, оплачен ли заказ полностью;
-* статус, отменён ли заказ;
-* кнопка раскрытия подробностей заказа.
+* Booking creation date;
+* Check-in date;
+* Check-out date;
+* Number of guests;
+* Total booking amount;
+* Amount of prepayment made;
+* Status indicating whether the order is fully paid;
+* Status indicating whether the order is canceled;
+* Expand button to view order details.
 
-По умолчанию все записи в таблицы отсортированы по дате создания бронирования. Чтобы отсортировать таблицу по любому другому столбцу, достаточно нажать на название столбца в шапке таблицы.
+By default, all entries in the table are sorted by booking creation date. To sort the table by any other column, simply click on the column header.
 
-Все строки таблицы подсвечиваются в соответствии со статусом заказа:
+All rows in the table are highlighted according to the order status:
 
-* полностью оплаченные — светло-зелёный;
-* внесена предоплата — голубой;
-* ожидают подтверждение — желто-зелёный;
-* отменённые — серый;
-* просроченные — красный (просроченным заказы становятся, если в течении часа после создания бронирования, не была внесена предоплата).
+* Fully paid: light green;
+* Partial payment made: blue;
+* Awaiting confirmation: yellow-green;
+* Canceled: gray;
+* Expired: red (bookings become expired if no prepayment is made within an hour after the booking is created).
 
-В подвале таблицы расположена следующая информация:
+At the bottom of the table, the following information is provided:
 
-6 — Выбор, сколько строк таблицы отобразить на одной странице таблицы.
+6 — Selection of the number of rows to display per page.&#x20;
 
-7 — Общее количество бронирований, диапазон видимых бронирований.
+7 — Total number of bookings and the range of visible bookings.&#x20;
 
-8 — Стрелки навигации по страницам таблицы.
+8 — Navigation arrows for table pagination.
 
-При нажатии на кнопку, расположенную в последнем столбце таблицы, раскрывается подробная информация о заказе в следующем виде:
+Clicking on the button located in the last column of the table expands detailed information about the booking, displayed as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 14.29.38.png" alt=""><figcaption></figcaption></figure>
 
-Прежде всего перечисляются клиенты, указанные в заказе (1), с краткой информацией о клиенте и комнатой, забронированной за клиентом. Имя клиента служит ссылкой на его страницу.
+First, the clients listed in the booking are listed (1), along with brief information about the client and the room reserved for the client. The client's name serves as a link to their page.
 
-Далее идёт форма рассылки информационных писем (2): поле ввода email, выбор типа письма и кнопка отправки. Данная форма доступна только для подтверждённых заказов.
+Next is the information email sending form (2): an email input field, a selection for the email type, and a send button. This form is only available for confirmed bookings.
 
-Ниже под формой указана история рассылки писем (3): когда, во сколько, на какой email и каким работником выполнена отправка письма.
+Below the form is the email sending history (3): when, at what time, to which email, and by which staff member the email was sent.
 
-Если заказ был создан пользователем Дашборда, или клиентом, авторизованным в личном кабинете, то далее будет указано кем был создан заказ (см. пример на изображении ниже).
+If the booking was created by a Dashboard user or an authorized client in their personal account, the creator of the booking will be indicated (see the example in the image below).
 
-В самом низу раскрытой карточки слева указаны кнопки быстрых операций с заказом (4), а справа — кнопка [редактирования заказа](../../../ru/menu/booking-section/edit-booking.md) (5).&#x20;
+At the very bottom of the expanded card, there are quick operation buttons for the booking on the left (4), and an edit booking button on the right (5).
 
-Кнопки быстрых операций с заказом отличаются в зависимости от статуса заказа.  Так, для бронирования, ожидающего подтверждение, доступны кнопки "Подтвердить заказ", "Заказ оплачен полностью" и "Отменить заказ" (см. пример на изображении ниже). Для подтверждённого заказа – "Заказ оплачен полностью" и "Отменить заказ". Для заказа оплаченного полностью или просроченного — только кнопка отмены. А для отменённого заказа, нет кнопок быстрых операций.
+The quick operation buttons for the booking vary depending on the booking status. For a booking awaiting confirmation, the available buttons are "Confirm Booking," "Fully Paid," and "Cancel Booking" (see example in the image below). For a confirmed booking, the buttons are "Fully Paid" and "Cancel Booking." For a fully paid or expired booking, only the cancel button is available. And for a canceled booking, there are no quick operation buttons.
 
-Пример заказа, ожидающего подтверждение:&#x20;
+Example of a booking awaiting confirmation:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 14.38.26.png" alt=""><figcaption></figcaption></figure>
 

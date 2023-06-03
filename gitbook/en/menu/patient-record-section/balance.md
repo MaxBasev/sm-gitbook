@@ -2,22 +2,22 @@
 layout: landing
 ---
 
-# Баланс
+# Balance
 
-Чтобы просмотреть бонусный баланс, а также историю операций с балансом пациента, необходимо перейти на странице клиента в соответствующий пункт меню.
+To view the bonus balance and the history of operations with a patient's balance, you need to go to the corresponding menu item on the client's page.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 22.05.59.png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Остаток на балансе клиента.
+1 - Balance remaining on the client's account.&#x20;
 
-2 — Кнопка обновления страницы баланса.
+2 - Button to refresh the balance page.&#x20;
 
-3 — Список операций с балансом клиента.
+3 - List of operations with the client's balance.
 
-Операции с балансом клиента могут происходить из нескольких источников:
+Operations with the client's balance can occur from several sources:
 
-1. Получение бонусов за оформление и подтверждение новым пользователем заказа, перешедшего по реферальной ссылке.
-2. Списание бонусов при оформлении инвойсов.
-3. Списание бонусов внештатным врачом из личного кабинета.
+1. Earned bonuses for placing and confirming an order by a new user who came through a referral link.
+2. Deducting bonuses when invoicing.
+3. Deducting bonuses by an external physician from their personal account.

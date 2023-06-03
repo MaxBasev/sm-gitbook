@@ -2,10 +2,10 @@
 layout: landing
 ---
 
-# Раздел бронирования
+# Booking
 
-Основные вопросы:
+Key questions:
 
-* [Просмотр всех бронирований](../../../ru/menu/booking-section/viewing-all-bookings.md)
-* [Создание нового бронирования](../../../ru/menu/booking-section/creating-a-new-booking.md)
-* [Редактирование бронирования](../../../ru/menu/booking-section/edit-booking.md)
+* [View all bookings](viewing-all-bookings.md)
+* [Creating a new booking](creating-a-new-booking.md)
+* [Editins a booking](edit-booking.md)

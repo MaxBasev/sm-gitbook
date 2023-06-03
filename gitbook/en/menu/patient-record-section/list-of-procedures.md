@@ -2,109 +2,109 @@
 layout: landing
 ---
 
-# Список процедур
+# List of procedures
 
-* [Просмотр списка процедур](list-of-procedures.md#prosmotr-spiskov-procedur-klienta)
-* [Создание списка процедур](list-of-procedures.md#sozdanie-spiska-procedur)
-* [Редактирование списка процедур](list-of-procedures.md#redaktirovanie-spiska-procedur)
+* Viewing the list of procedures.
+* Creating a list of procedures.
+* Editing a list of procedures.
 
-Работа со списком процедур аналогична работе со списком анализов, за исключением некоторых дополнительных полей при создании списка.
+Working with the list of procedures is similar to working with the list of tests, with some additional fields when creating a list.
 
-#### Просмотр списков процедур клиента
+#### Viewing client's lists of procedures
 
-Чтобы просмотреть все списки процедур, назначенных клиенту, необходимо перейти в соответствующий пункт меню в правой панели страницы клиента.
+o view all lists of procedures assigned to a client, you need to go to the corresponding menu item in the right panel of the client's page.
 
-Просмотр списков выглядит следующим образом:
+The view of the lists is as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 19.45.54.png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Кнопка обновления списка.
+1 - Button to refresh the list.&#x20;
 
-2 — Кнопка [создания нового списка процедур](list-of-procedures.md#sozdanie-spiska-procedur).
+2 - Button to create a new list of procedures.&#x20;
 
-3 — Карточка отдельного списка.
+3 - Card of an individual list.&#x20;
 
-4 — Информация о дате, времени и создателе списка.
+4 - Information about the date, time, and creator of the list.&#x20;
 
-5 — Кнопка [редактирования списка процедур](list-of-procedures.md#redaktirovanie-spiska-procedur).
+5 - Button to edit the list of procedures.&#x20;
 
-6 — Кнопка просмотра списка в отдельном окне.
+6 - Button to view the list in a separate window.&#x20;
 
-7 — Непосредственно список процедур. Список представлен в виде таблицы со следующими столбцами:
+7 - The actual list of procedures. The list is presented in the form of a table with the following columns:
 
-* порядковый номер;
-* название процедуры;
-* тип (процедура/анализ/натуропатик);
-* категория;
-* количество;
-* комментарий к процедуре;
-* дни недели (с понедельника по субботу) - отмечается в какие дни предпочтительно необходимо провести процедуру.
+* Serial number.
+* Procedure name.
+* Type (procedure/test/naturopathic).
+* Category.
+* Quantity.
+* Procedure comment.
+* Days of the week (from Monday to Saturday) - indicating the preferred days for conducting the procedure.
 
-8 — История.
+8 - History.
 
-Окно при переходе по кнопке просмотра списка в отдельном окне (6) выглядит следующим образом:
+The window when clicking on the button to view the list in a separate window (6) looks as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 20.07.11.png" alt=""><figcaption></figcaption></figure>
 
-1 — Ссылки Назад на предыдущую страницу.
+1 - Back links to the previous page.&#x20;
 
-2 — Выбор столбцов для отображения в списке.
+2 - Selection of columns to display in the list.&#x20;
 
-3 — Сохранение списка в виде файла PDF.
+3 - Saving the list as a PDF file.&#x20;
 
-4 — Непосредственно список процедур. Так же он будет выглядеть и в файле.
+4 - The actual list of procedures. It will appear the same way in the file.
 
-#### Создание списка процедур
+#### Creating a list of procedures
 
-Для создания списка процедур необходимо перейти либо на страницу создания медицинской записи (в данном случае в медицинские записи должно быть добавлено соответствующее поле), либо перейти по кнопке, расположенной на странице просмотра всех списков процедур клиента.
+To create a list of procedures, you need to either go to the medical record creation page (in this case, the corresponding field should be added to the medical records) or click on the button located on the page for viewing all client lists of procedures.
 
-Страница создания списка процедур выглядит следующим образом:
+The page for creating a list of procedures looks as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 20.38.30.png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Ссылка на предыдущую страницу.
+1 - Link to the previous page.&#x20;
 
-2 — Краткая инфоармция о клиенте, для которого формируется список.
+2 - Brief information about the client for whom the list is being created.&#x20;
 
-3 — Дата и время на которое необходимо сделать запись.
+3 - Date and time for which the entry needs to be made.&#x20;
 
-4 — Форма добавления процедур в список.
+4 - Form for adding procedures to the list.
 
-Кнопка создания находится внизу страницы под формой.
+The creation button is located at the bottom of the page below the form.
 
-Форма добавления процедур представлена на изображении ниже.
+The form for adding procedures is shown in the image below.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 20.43.19.png" alt=""><figcaption></figcaption></figure>
 
-Форма добавления процедур в рамках создания медицинской записи выглядит аналогичным образом. Форма состоит из:
+The form for adding procedures within the creation of a medical record looks the same way. The form consists of:
 
-1 — Поле поиска/фильтрации.
+1 - Search/filter field.&#x20;
 
-2 — Выбор типа процедур.
+2 - Selection of procedure type.&#x20;
 
-3 — Выбор категории.
+3 - Selection of category.&#x20;
 
-4 — Кнопка просмотра только выбранных процедур.
+4 - Button to view only selected procedures.&#x20;
 
-5 — Очистить список выбора.
+5 - Clear selection list.&#x20;
 
-6 — Таблица всех доступных процедур. Она состоит из следующий столбцов:
+6 - Table of all available procedures. It consists of the following columns:
 
-* выбор процедуры;
-* название;
-* тип;
-* категория;
-* стоимость;
-* поле ввода количества процедур;
-* поле введения комментария к процедуре;
-* столбцы выбора дней недели, предпочтительных для выполнения процедур (с понедельника по субботу, отдельный день недели - отдельный столбец - отдельный чекбокс выбора)
+* Procedure selection.
+* Name.
+* Type.
+* Category.
+* Cost.
+* Field for entering the quantity of procedures.
+* Field for entering a comment about the procedure.
+* Columns for selecting the preferred days of the week for performing procedures (from Monday to Saturday, each day has a separate column with a checkbox for selection).
 
-#### Редактирование списка процедур
+#### Editing a list of procedures
 
-Страница редактирования списка процедур аналогична странице создания списка. Пример:
+The page for editing a list of procedures is similar to the page for creating a list. Example:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 21.23.04.png" alt=""><figcaption></figcaption></figure>

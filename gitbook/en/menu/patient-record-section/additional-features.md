@@ -2,20 +2,20 @@
 layout: landing
 ---
 
-# Дополнительные функции
+# Additional features
 
-#### Запросы на списание баланса для внештатных докторов
+#### Requests for balance withdrawal for external doctors
 
-Данны пункт меню доступен только пользователям системы с определённой ролью.
+This menu item is only available to system users with a specific role.
 
-Страница будет выглядеть следующим образом:
+The page will look as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 22.19.12.png" alt=""><figcaption></figcaption></figure>
 
-Так как запросы на вывод средств из личного кабинета, могу оставлять только доктора, то у клиента должен быть проставлен соответствующий статус. В личном кабинете статус доктора отображен в левой панеле сверху (1).
+Since requests for fund withdrawal from the personal account can only be made by doctors, the client must have the appropriate status assigned. In the client's personal account, the doctor's status is displayed in the top left panel (1).
 
-Для запроса списания баланса, клиент у себя в личном кабинете самостоятельно заполняет поле, с указанием куда и как необходимо вывести средства. Эта информация отображается на странице клиента сверху (2).
+To request a balance withdrawal, the client fills out the field in their personal account, indicating where and how the funds should be withdrawn. This information is displayed at the top of the client's page (2).
 
-Также на странице указан баланс пользователя, доступный для списания (3); кнопка обновления запросов (5); и список всех запросов пользователя (4).&#x20;
+The user's available balance for withdrawal is also indicated on the page (3), along with a button to refresh the requests (5) and a list of all user requests (4).
 
-В списке отображается следующая информация: когда пользователь направил запрос; статус запроса (в ожидании или завершен); сумма средств на списание; кнопка подтверждения перевода средств клиенту.
+The list displays the following information: when the user submitted the request, the status of the request (pending or completed), the amount of funds to be withdrawn, and a button to confirm the transfer of funds to the client.

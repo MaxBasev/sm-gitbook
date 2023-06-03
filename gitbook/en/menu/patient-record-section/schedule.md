@@ -2,30 +2,33 @@
 layout: landing
 ---
 
-# Расписание
+# Schedule
 
-Расписание процедур клиента находится в соответствующем пункте меню на странице клиента.
+The client's procedure schedule is located in the corresponding menu item on the client's page.
 
-Все данные в расписание подгружаются из системы Simplybook.
+All data in the schedule is loaded from the Simplybook system.
 
-Расписание на странице клиента в системе Дашборд выглядит следующим образом:
+The schedule on the client's page in the Dashboard system looks as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 21.30.51.png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Кнопка обновления расписания.
+1 - Button to refresh the schedule.&#x20;
 
-2 — Кнопка сохранения расписание в виде файла PDF.
+2 - Button to save the schedule as a PDF file.&#x20;
 
-3 — Поля ввода периода, за который необходимо отобразить расписание клиента.
+3 - Input fields for specifying the period for which the client's schedule should be displayed.&#x20;
 
-4 — Расписание за выбранный период.
+4 - Schedule for the selected period.
 
-При нажатии на кнопку сохранения расписания в виде файла PDF, открывается всплывающее меню с выбором ориентации будущего документа (см. изображение нижу).
+When the button to save the schedule as a PDF file is clicked, a pop-up menu opens with the option to choose the orientation of the future document (see image below).
+
+\
+
 
 <figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Пример итогового файла PDF:
+Example of the resulting PDF file:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 21.39.56.png" alt=""><figcaption></figcaption></figure>

@@ -6,12 +6,12 @@ layout: landing
 
 Key questions:
 
-* Basic Client Information&#x20;
-* Viewing Client Orders&#x20;
-* Viewing Invoices&#x20;
-* Medical Records&#x20;
-* Analyses List
-* Procedure List&#x20;
-* Schedule&#x20;
-* Balance&#x20;
-* Additional Features
+* [Basic Client Information](basic-client-information.md)&#x20;
+* [Viewing Client Orders](viewing-client-orders.md)&#x20;
+* [Viewing Invoices](viewing-invoices.md)&#x20;
+* [Medical Records ](medical-records.md)
+* [Analyses List](spisok-analizov.md)
+* [Procedure List ](list-of-procedures.md)
+* [Schedule](schedule.md)&#x20;
+* [Balance](balance.md)&#x20;
+* [Additional Features](additional-features.md)

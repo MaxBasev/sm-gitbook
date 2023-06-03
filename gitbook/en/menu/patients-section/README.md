@@ -2,11 +2,11 @@
 layout: landing
 ---
 
-# Раздел пациентов
+# Patient section
 
-Основные вопросы:
+Key questions:
 
-* [Список пациентов](../../../ru/menu/patients-section/list-of-patients.md)
-* [Поиск по списку](../../../ru/menu/patients-section/search-clients.md)
-* [Создание нового пациента](../../../ru/menu/patients-section/create-new-patient.md)
-* [Редактирование данных пациента](../../../ru/menu/patients-section/redaktirovanie-dannykh-pacienta.md)
+* Patient List
+* Search within the list
+* Create a new patient
+* Edit patient information

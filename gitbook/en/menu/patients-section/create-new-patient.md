@@ -2,37 +2,37 @@
 layout: landing
 ---
 
-# Создание нового пациента
+# Create a new patient
 
-Для создания нового пациента, необходимо перейти на страницу со списком всех клиентов и нажать на кнопку, расположенную в правом верхнем углу:
+To create a new client, you need to navigate to the page with the list of all clients and click on the button located in the upper right corner%
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-24 at 18.53.08.png" alt=""><figcaption></figcaption></figure>
 
-После нажатия на кнопку открывается страница с формой создания нового клиента, как показано на изображении ниже.
+After clicking the button, a page with a form to create a new client opens, as shown in the image below.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-24 at 18.55.22.png" alt=""><figcaption></figcaption></figure>
 
-Форма состоит из следующих полей:
+The form consists of the following fields:
 
-* имя;
-* фамилия;
-* телефон;
-* email;
-* дата рождения;
-* город проживания.
+* First Name
+* Last Name
+* Phone Number
+* Email
+* Date of Birth
+* City of Residence
 
 {% hint style="info" %}
-**Обратите внимание!**&#x20;
+**Please note**
 
-Email очень важен при заполнении формы.&#x20;
+The email field is crucial for form completion.&#x20;
 
-Именно email проверяется при регистрации пользователя в личном кабинет, и если адреса не совпадают, или в системе больше одного похожего адреса, то пользователь не сможет получить информацию о себе в личном кабинете.
+The email is specifically verified during user registration in the personal account. If the entered email addresses do not match or if there are multiple similar addresses in the system, the user will not be able to access their information in the personal account.&#x20;
 
-При проведении различных рекламных опросов и тестов, для которых не требуется вход в личный кабинет, также проверяется только вводимый пользователем email и привязка результатов опроса происходит к **первому** совпадающему адресу в системе (либо создаётся новый, если нет совпадений).
+The same applies to various promotional surveys and tests where login to the personal account is not required. Only the email entered by the user is verified, and the survey results are associated with the first matching email address in the system or a new one is created if there are no matches.
 {% endhint %}
 
-Все поля обязательны для заполнения.
+All fields are mandatory and must be filled out.&#x20;
 
-Кнопка "Создать клиента", расположенная в правом нижнем углу, становится активной, если все поля заполнены корректно.
+The "Create Client" button, located in the bottom right corner, becomes active only when all the fields are filled correctly.
 
-После нажатия на кнопку, происходит проверка, нет ли такого же клиента в системе и не занят ли указанный номер телефона. Если всё корректно, то в системе создаётся новый клиент.
+After clicking the button, the system checks if there is already a client with the same information and if the specified phone number is available. If everything is correct, a new client is created in the system.

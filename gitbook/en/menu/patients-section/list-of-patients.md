@@ -2,26 +2,26 @@
 layout: landing
 ---
 
-# Список пациентов
+# Patient list
 
-Для просмотра полного списка клиентов необходимо перейти в соответствующий пункт меню.&#x20;
+To view the full client list, you need to navigate to the corresponding menu item.&#x20;
 
-Список клиентов представлен в виде таблицы.&#x20;
+The client list is presented in the form of a table.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-23 at 22.33.08.png" alt=""><figcaption></figcaption></figure>
 
-Таблица состоит из семи столбцов:&#x20;
+The table consists of seven columns:
 
-* имя клиента;
-* фамилия клиента;
-* дата рождения;
-* email;
-* телефон;
-* страна проживания;
-* действия.
+1. Client's first name
+2. Client's last name
+3. Date of birth
+4. Email
+5. Phone number
+6. Country of residence
+7. Actions
 
-Чтобы отсортировать таблицу по конкретному столбцу, необходимо нажать на название столба (2) в шапке таблицы (1).
+To sort the table by a specific column, you need to click on the column header (2) in the table header (1).
 
-Всё содержимое таблицы визуально поделено на страницы. Посмотреть общее количество клиентов (4), перейти на предыдущую или следующую страницы (5), а также просмотреть и настроить количество клиентов на одной страницы таблицы (6) можно в подвале таблицы (3).
+The contents of the table are visually divided into pages. You can view the total number of clients (4), navigate to the previous or next pages (5), and customize the number of clients per page (6) in the table footer (3).
 
-Последний столбец таблицы содержит ссылка на страницу пациента.
+The last column of the table contains a link to the client's page.

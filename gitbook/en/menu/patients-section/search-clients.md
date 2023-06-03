@@ -2,10 +2,10 @@
 layout: landing
 ---
 
-# Поиск по списку
+# Search within the list
 
-Поиск клиентов находится над таблицей со списком всех пациентов:
+The search function is located above the table with the list of all clients:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-24 at 18.46.03.png" alt=""><figcaption></figcaption></figure>
 
-Поиск осуществляется одновременно по всем столбцам таблицы.
+The search is performed simultaneously across all columns of the table.

@@ -51,7 +51,7 @@
 ## 😶 EN
 
 * [Menu](en/menu/README.md)
-  * [Работа с дашбордом](en/menu/work-with-dashboard.md)
+  * [Working with the Application](en/menu/work-with-dashboard.md)
   * [Раздел To Do](en/menu/to-do-section/README.md)
     * [Задачи пользователя](en/menu/to-do-section/user-tasks.md)
     * [Создание задач и назначение другим сотрудникам](en/menu/to-do-section/creating-tasks.md)

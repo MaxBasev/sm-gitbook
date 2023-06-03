@@ -2,51 +2,51 @@
 layout: landing
 ---
 
-# Ввод расходов
+# Entering expenses
 
-Чтобы добавить расходы, необходимо перейти в пункт главного меню "Платежи" ➡️ "Расходы".
+To add expenses, you need to go to the "Payments" ➡️ "Expenses" section of the main menu.
 
-Страница внесения расходов выглядит следующим образом:
+The expense entry page looks as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 19.18.29.png" alt=""><figcaption></figcaption></figure>
 
-В начале странице расположена форма внсесения расходов (1), состоящая из следующих полей:
+At the top of the page is the expense entry form (1), consisting of the following fields:
 
-(2) дата;
+(2) Date;&#x20;
 
-(3) категория;
+(3) Category;&#x20;
 
-(4) название;
+(4) Name;&#x20;
 
-(5) валюта, в которой были произведены расходы (предусмотрено две валюты: MXN и USD);
+(5) Currency in which the expenses were made (two currencies are available: MXN and USD);&#x20;
 
-(6) цена;
+(6) Price;&#x20;
 
-(7) курс обмена валют;
+(7) Currency exchange rate;&#x20;
 
-(8) цена в другой валюте (вычисляется автоматически);
+(8) Price in the other currency (calculated automatically);&#x20;
 
-(9) количество;
+(9) Quantity;&#x20;
 
-(10) общая сумма затрат;
+(10) Total expense amount;&#x20;
 
-(11) кнопка добавить расход.
+(11) Add expense button.
 
-Под формой расположена история расходов (12). Все расходы группируются по месяцу внесения расходов (13) с указанием общей суммы расходов за месяц(14). Сортировка происходит от нового к старому.
+Below the form is the expense history (12). All expenses are grouped by the month of entry (13) with the total expense amount for the month displayed (14). The sorting is done from newest to oldest.
 
-Единица расходов представляется в следующем виде (15):
+An expense entry is presented in the following format (15):
 
-* число и день недели;
-* категория;
-* название;
-* стоимость в валютах (если какая-либо валюта не указана, то она не отображается);
-* количество;
-* кнопка редактирования записи.
+* Date and day of the week;
+* Category;
+* Name;
+* Cost in currencies (if any currency is not specified, it is not displayed);
+* Quantity;
+* Edit entry button.
 
-При нажатии на кнопку редактирования записи, появляется форма следующего вида:
+Clicking on the edit entry button displays a form with the following format:
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-Также предусмотрена возможность просмотреть сумму выборочных расходов. Для этого, необходимо выделить интересующие расходы нажатием на запись. Внизу страницы появится панель: слева расположена кнопка очистить выделение; справа - сумма выделенных записей.
+There is also an option to view the sum of selected expenses. To do this, select the desired expenses by clicking on the entry. At the bottom of the page, a panel will appear: on the left is the clear selection button, and on the right is the sum of the selected entries.
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

@@ -2,24 +2,24 @@
 layout: landing
 ---
 
-# Просмотр статистики
+# Viewing statistics
 
-Чтобы просмотреть статистику расходов и доходов, необходимо перейти в пункт главного меню "Платежи" ➡️ "Просмотреть всё".
+To view expense and income statistics, you need to go to the "Payments" ➡️ "View All" section of the main menu.
 
 <figure><img src="../../../.gitbook/assets/sybillehealth.com_dashboard_payment_view-all (1).png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Выбор периода, за который необходимо просмотреть статистику.&#x20;
+1 — Selection of the period for which you want to view the statistics.
 
-2 — Поле ввода периода вручную. Поле доступно, если выбран период "Произвольный".
+2 — Manual input field for the period. The field is available if the "Custom" period is selected.
 
-3 — Всплывающая панель с подробной информацией по доходам.
+3 — Pop-up panel with detailed income information.
 
-4 — Диаграмма доходов за выбранный период. В статистику доходов попадают инвойсы, помеченные как "Полностью оплачен". При нажатии на столбик диаграммы, в панеле справа (3) отображается список полностью оплаченных инвойсов за выбранный день и их общая стоимость.
+4 — Income chart for the selected period. The income statistics include invoices marked as "Fully Paid." Clicking on a bar in the chart displays a list of fully paid invoices for the selected day and their total cost in the panel on the right (3).
 
-5 — Сумма доходов за выбранный период.
+5 — Total income amount for the selected period.
 
-6 — Диаграмма расходов за выбранный период.
+6 — Expense chart for the selected period.
 
-7 — Общая сумма расходов на выбранный период.&#x20;
+7 — Total expense amount for the selected period.

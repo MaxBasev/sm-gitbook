@@ -92,4 +92,4 @@
   * [Settings section](en/menu/settings-section/README.md)
     * [Medical Records: Viewing history](en/menu/settings-section/viewing-histories.md)
     * [Viewing withdrawal requests](en/menu/settings-section/viewing-withdrawal-requests.md)
-  * [Личный кабинет пациента](en/menu/lichnyi-kabinet-pacienta.md)
+  * [Patient personal account](en/menu/patient-personal-account.md)

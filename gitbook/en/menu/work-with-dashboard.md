@@ -2,118 +2,118 @@
 layout: landing
 ---
 
-# Работа с дашбордом
+# Working with the Application
 
-В данном разделе приведена базовая информация по работе с системой бронирования компании Санта Мария (Дашбордом)
+In this section, basic information is provided on working with the Santa Maria booking system (Dashboard).
 
-Основные вопросы:
+Key questions:
 
-* [Из чего состоит приложение (клиентская часть)](work-with-dashboard.md#client-admin-parts)
-* [Страница бронирования](work-with-dashboard.md#booking-page)
-* [Часть администраторов](work-with-dashboard.md#admin-section)
-* [Вход в приложение](work-with-dashboard.md#admin-login)
-* [Основные элементы](work-with-dashboard.md#basic-elements)
-* [Создание нового пользователя](work-with-dashboard.md#create-new-user)
-* [Права и группы пользователей](work-with-dashboard.md#staff-roles)
+* What does the application consist of (client-side)
+* Booking page
+* Administrator section
+* Logging into the application
+* Key elements
+* Creating a new user
+* User permissions and groups
 
-### Из чего состоит приложение (клиентская часть) <a href="#client-admin-parts" id="client-admin-parts"></a>
+### What does the application (client-side) consist of? <a href="#client-admin-parts" id="client-admin-parts"></a>
 
-#### Клиентская часть
+#### Client-side
 
-Основная ссылка - [https://sybillehealth.com/](https://sybillehealth.com/). На нее клиент попадает в случае перехода по реферальной ссылке от другого пользователя.&#x20;
+The main link - [https://sybillehealth.com/](https://sybillehealth.com/). A client lands on it when they click on a referral link from another user.
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Страница бронирования  <a href="#booking-page" id="booking-page"></a>
+#### Booking page  <a href="#booking-page" id="booking-page"></a>
 
-Через эту страницу клиенты могут сделать бронь - [https://sybillehealth.com/booking/](https://sybillehealth.com/booking/)
+Through this page, clients can make a reservation - [https://sybillehealth.com/booking/](https://sybillehealth.com/booking/)
 
 <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Выбирается продолжительность, дата заезда, вводится информация о госте(гостях) и выбирается номер из списка доступных.&#x20;
+Clients select the duration, check-in date, enter guest information, and choose a room from the list of available options.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-После ввода всех данных и нажатия кнопки "Proceed to Payment" происходит переход на страницу оплаты.
+After entering all the information and clicking the "Proceed to Payment" button, you will be redirected to the payment page.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Оплата происходит с помощью сервиса PayPal. 400$ за человека. На оплату дается 60 минут, если за этот промежуток бронь не оплачена, то она становится "Expired" и номер освобождается.&#x20;
+The payment is processed using the PayPal service, with a fee of $400 per person. You will have 60 minutes to complete the payment. If the reservation is not paid within this time frame, it will be marked as "Expired," and the room will become available again.
 
-Если оплата прошла успешно, то клиенту на почту отправляется письмо с информацией о заказе и его, клиента, дальнейших действиях.
+If the payment is successfully processed, the client will receive an email with order information and instructions regarding their further actions.
 
 
 
-### Часть администраторов <a href="#admin-section" id="admin-section"></a>
+### Administrator section <a href="#admin-section" id="admin-section"></a>
 
-#### Вход в систему <a href="#admin-login" id="admin-login"></a>
+#### Logging into the system <a href="#admin-login" id="admin-login"></a>
 
-Для входа в систему сотруднику нужно перейти по ссылке - [https://sybillehealth.com/dashboard](https://sybillehealth.com/dashboard).&#x20;
+To log into the system as an employee, you need to visit the following link - [https://sybillehealth.com/dashboard](https://sybillehealth.com/dashboard).
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Выбираем аккаунт с помощью которого хотим зайти (если их несколько в браузере).
+If there are multiple accounts saved in the browser, you can choose the specific account you wish to use to log in. This can typically be done by clicking on the relevant account profile.
 
 <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Основные элементы <a href="#basic-elements" id="basic-elements"></a>
+#### The main elements <a href="#basic-elements" id="basic-elements"></a>
 
-После входа в систему, пользователь увидит примерно такой экран (по умолчанию это секция To Do пользователя):
+The main elements After logging into the system, the user will see a screen similar to the following (by default, it is the user's To-Do section):
 
 <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. Основное меню (пункты меню зависят от роли пользователя)
-2. Кнопка профиля - выход из аккаунта
-3. Боковая панель с отображением текущих гостей клиники
+1. Main Menu (menu items depend on the user's role)
+2. Profile button — Logout from the account
+3. Side panel displaying current clinic guests
 
-#### Создание нового пользователя <a href="#create-new-user" id="create-new-user"></a>
+#### Creating a new user <a href="#create-new-user" id="create-new-user"></a>
 
-Все пользователи для работы с Дашбордом создаются вручную администратором.
+All users for accessing the Dashboard are created manually by the administrator.
 
-#### Права и группы пользователей <a href="#staff-roles" id="staff-roles"></a>
+#### User Permissions and Groups <a href="#staff-roles" id="staff-roles"></a>
 
-1 Роль по умолчанию. Доступные пункты меню:
+1 Default Role. Available menu items:
 
-* Задачи;
-* Календарь;
-* Пациенты;
-* Бронирование;
-* Инвойсы.
+* To Do;
+* Calendar;
+* Patient;
+* Booking;
+* Invoice.
 
-2 Младший терапевт. Доступные пункты меню:
+2 Junior Therapist. Available menu items:
 
-* Задачи;
-* Календарь;
-* Пациенты.
+* To Do;
+* Calendar;
+* Patient.
 
-3 Младший сотрудник. Доступные пункты меню:
+3 Junior Employee. Available menu items:
 
-* Задачи;
-* Календарь;
-* Пациенты;
-* Бронирование;
-* Инвойсы;
-* Расходы ➡️ Добавление расходов
+* To Do;
+* Calendar;
+* Patient;
+* Booking;
+* Invoice;
+* Payments ➡️ Add Payment
 
-4 Работник среднего звена. Доступные пункты меню:
+4 Middle Employee. Available menu items:
 
-* Задачи;
-* Календарь;
-* Пациенты;
-* Бронирование;
-* Инвойсы;
-* Расходы ➡️ Добавление расходов
-* Настройки ➡️ Персонал
+* To Do;
+* Calendar;
+* Patient;
+* Booking;
+* Invoice;
+* Payments ➡️ Add Payment
+* Settings ➡️ Staff
 
-5 Старший сотрудник
+5 Senior Employee
 
-* Задачи;
-* Календарь;
-* Пациенты;
-* Бронирование;
-* Инвойсы;
-* Расходы;
-* Настройки (Сотрудники, Управление полями в медицинских записях, Просмотр истории медицинских записей, Подтверждение вывода средств сторонними сотрудниками).
+* To Do;
+* Calendar;
+* Patient;
+* Booking;
+* Invoice;
+* Payments;
+* Settings (Staff, Viewing Medical Records History Confirmation of Withdrawal by Third-Party Employees).
 
 
 

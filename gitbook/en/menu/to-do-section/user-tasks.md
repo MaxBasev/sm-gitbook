@@ -2,35 +2,38 @@
 layout: landing
 ---
 
-# Задачи пользователя
+# User Tasks
 
-#### Просмотр задач пользователя
+#### Viewing User Tasks
 
-Первый экран, который открывается при входе в систему — это Задачи пользователя. По умолчанию открывается вкладка со списком всех задач.
+The first screen that opens upon logging into the system is the User To Do. By default, the tab displaying the list of all tasks is opened.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-22 at 22.03.41.png" alt=""><figcaption></figcaption></figure>
 
-На изображении:\
-1 — Поле выбора пользователя, задачи которого необходимо просмотреть (поле доступно только для работников, соответствующего уровня доступа — если поле не доступно, то выбран текущий пользователь системы).\
-2 — Текущие задачи пользователя (отсортированы по уровню приоритета выполнения задачи). \
-3 — Завершенные задачи пользователя (отсортированы по времени завершения задачи).
+In the image:
 
-Все задачи характеризуются:\
-а) крайним сроком выполнения задачи (который, может отсутствовать);\
-б) приоритетом выполнения.
+1 — User selection field: It allows choosing the user whose tasks need to be viewed. This field is only available to employees with the corresponding access level. If the field is not available, the tasks of the current user are selected by default.
 
-По приоритету выполнения различают задачи с высоким, средним, низким и без приоритета.
+2 — Current user tasks: These tasks are sorted by the priority level of execution.
 
-#### Завершение и отмена задачи пользователя
+3 — Completed user tasks: These tasks are sorted by the completion time.
 
-Чтобы завершить/отменить задачу, а также чтобы просмотреть её историю, необходимо нажать на задачу, после чего откроется карточка задачи (как показано на изображении ниже).
+All tasks are characterized by: \
+a) Deadline for task completion (which may be absent). \
+b) Execution priority.
+
+Tasks are differentiated by high, medium, low, or no priority.
+
+#### Completing and Cancelling User Tasks
+
+To complete or cancel a task, as well as to view its history, you need to click on the task, which will open the task card (as shown in the image below).
 
 <figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
-Карточка содержит:&#x20;
+The task card contains:
 
-* полный текст задачи;
-* поля для ввода времени, потраченного на выполнение задачи;
-* историю операций с задачей (можно просмотреть, кто создал задачу и когда, как изменялся текст задачи, когда и кем задача была завершена или отменена);
-* имя создателя задачи;
-* кнопки завершения и отмены задачи.
+* The full text of the task.
+* Fields for entering the time spent on completing the task.
+* The history of operations performed on the task, including information on who created the task and when, how the task text was modified, and when and by whom the task was completed or cancelled.
+* The name of the task creator.
+* Buttons for completing and cancelling the task.

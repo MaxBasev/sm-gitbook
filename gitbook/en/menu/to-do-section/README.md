@@ -2,12 +2,12 @@
 layout: landing
 ---
 
-# Раздел To Do
+# To Do section
 
-Первый экран, который открывается при входе в систему.
+The first screen that opens upon logging into the system.
 
-Основные вопросы:
+Key questions:
 
-* [Задачи пользователя](../../../ru/menu/to-do-section/user-tasks.md)
-* [Создание задач и назначение другим сотрудникам](../../../ru/menu/to-do-section/creating-tasks.md)
-* [Просмотр статистики](../../../ru/menu/to-do-section/viewing-statistics.md)
+* User tasks
+* Creating tasks and assigning them to other employees
+* Viewing statistics

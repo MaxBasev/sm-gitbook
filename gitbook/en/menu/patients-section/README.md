@@ -6,7 +6,7 @@ layout: landing
 
 Key questions:
 
-* Patient List
-* Search within the list
-* Create a new patient
-* Edit patient information
+* [Patient List](list-of-patients.md)
+* [Search within the list](search-clients.md)
+* [Create a new patient](create-new-patient.md)
+* [Edit patient information](edit-patient-information.md)

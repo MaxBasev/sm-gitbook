@@ -2,19 +2,19 @@
 
 Main questions:
 
-* [Login to the personal account](patient-personal-account.md#login-to-the-personal-account)
-  * [Registration in the personal account](patient-personal-account.md#registration-in-the-personal-account)
-  * [Authorization in the personal account](patient-personal-account.md#authorization-in-the-personal-account)
-  * [Password recovery](patient-personal-account.md#password-recovery)
-* [Functions of the personal account](patient-personal-account.md#functions-of-the-personal-account)
-  * [Home page](patient-personal-account.md#home-page)
-  * [Medical records](patient-personal-account.md#medical-records)
-  * [Bookings](patient-personal-account.md#orders)
-  * [Invoices](patient-personal-account.md#invoices)
-  * [Schedule](patient-personal-account.md#schedule)
-  * [Bonus balance](patient-personal-account.md#bonus-balance)
-  * [Settings](patient-personal-account.md#personal-settings)
-* [Log out of the personal account](patient-personal-account.md#log-out-of-the-personal-account)
+* [Login to the personal account](lichnyi-kabinet-pacienta.md#login-to-the-personal-account)
+  * [Registration in the personal account](lichnyi-kabinet-pacienta.md#registration-in-the-personal-account)
+  * [Authorization in the personal account](lichnyi-kabinet-pacienta.md#authorization-in-the-personal-account)
+  * [Password recovery](lichnyi-kabinet-pacienta.md#password-recovery)
+* [Functions of the personal account](lichnyi-kabinet-pacienta.md#functions-of-the-personal-account)
+  * [Home page](lichnyi-kabinet-pacienta.md#home-page)
+  * [Medical records](lichnyi-kabinet-pacienta.md#medical-records)
+  * [Bookings](lichnyi-kabinet-pacienta.md#orders)
+  * [Invoices](lichnyi-kabinet-pacienta.md#invoices)
+  * [Schedule](lichnyi-kabinet-pacienta.md#schedule)
+  * [Bonus balance](lichnyi-kabinet-pacienta.md#bonus-balance)
+  * [Settings](lichnyi-kabinet-pacienta.md#personal-settings)
+* [Log out of the personal account](lichnyi-kabinet-pacienta.md#log-out-of-the-personal-account)
 
 ### Login to the personal account
 

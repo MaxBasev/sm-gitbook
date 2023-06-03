@@ -4,8 +4,8 @@ layout: landing
 
 # Medical records
 
-* Viewing medical records.
-* Adding a new medical record.
+* [Viewing medical records](medical-records.md#viewing-medical-records)
+* [Adding a new medical record](medical-records.md#adding-a-new-medical-record)
 
 #### Viewing medical records
 

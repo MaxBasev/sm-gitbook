@@ -4,9 +4,9 @@ layout: landing
 
 # List of procedures
 
-* Viewing the list of procedures.
-* Creating a list of procedures.
-* Editing a list of procedures.
+* [Viewing the list of procedures](list-of-procedures.md#viewing-clients-lists-of-procedures)
+* [Creating a list of procedures](list-of-procedures.md#creating-a-list-of-procedures)
+* [Editing a list of procedures](list-of-procedures.md#editing-a-list-of-procedures)
 
 Working with the list of procedures is similar to working with the list of tests, with some additional fields when creating a list.
 

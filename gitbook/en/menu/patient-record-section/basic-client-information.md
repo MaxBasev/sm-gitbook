@@ -30,7 +30,7 @@ The left panel of the page consists of the following parts:
 
 1 - Client's first and last name.&#x20;
 
-2 - Edit client's data button.&#x20;
+2 - [Edit client's data](../patients-section/redaktirovanie-dannykh-pacienta.md) button.&#x20;
 
 3 - General information about the client.&#x20;
 

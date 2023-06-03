@@ -33,6 +33,6 @@ The order card (2) consists of the following elements (as shown in the image):
 * Order cancellation button: When clicked, a confirmation window appears before proceeding with the cancellation operation. After confirmation, the order status changes to Canceled.
 * Full payment button: When clicked, a confirmation window appears for the operation (button unavailable for canceled and expired orders).
 
-9 - Order editing button.
+9 - [Order editing](../booking-section/edit-booking.md) button.
 
 10 - Order history.

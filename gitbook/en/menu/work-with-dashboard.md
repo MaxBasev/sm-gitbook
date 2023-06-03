@@ -8,15 +8,15 @@ In this section, basic information is provided on working with the Santa Maria b
 
 Key questions:
 
-* What does the application consist of (client-side)
-* Booking page
-* Administrator section
-* Logging into the application
-* Key elements
-* Creating a new user
-* User permissions and groups
+* [What does the application consist of (client-side)](work-with-dashboard.md#client-admin-parts)
+* [Booking page](work-with-dashboard.md#booking-page)
+* [Administrator section](work-with-dashboard.md#admin-section)
+* [Logging into the application](work-with-dashboard.md#admin-login)
+* [Key elements](work-with-dashboard.md#basic-elements)
+* [Creating a new user](work-with-dashboard.md#create-new-user)
+* [User permissions and groups](work-with-dashboard.md#staff-roles)
 
-### What does the application (client-side) consist of? <a href="#client-admin-parts" id="client-admin-parts"></a>
+### What does the application (client-side) consist of <a href="#client-admin-parts" id="client-admin-parts"></a>
 
 #### Client-side
 

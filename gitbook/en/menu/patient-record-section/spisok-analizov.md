@@ -1,8 +1,8 @@
 # List of tests
 
-* Viewing the list of tests.
-* Creating a list of tests.
-* Editing a list of tests.
+* [Viewing the list of tests](spisok-analizov.md#viewing-the-list-of-tests)
+* [Creating a list of tests](spisok-analizov.md#creating-a-new-list-of-tests)
+* [Editing a list of tests](spisok-analizov.md#editing-a-list-of-tests)
 
 #### Viewing the list of tests
 
@@ -14,13 +14,13 @@ The client's list of tests looks as follows:
 
 1 - Button to refresh the list of tests.&#x20;
 
-2 - Button to create a new list of tests.&#x20;
+2 - Button to [create a new list of tests](spisok-analizov.md#creating-a-new-list-of-tests).&#x20;
 
 3 - The list of tests is presented in the form of cards.&#x20;
 
 4 - Date on which the entry needs to be made and the creator of the list.&#x20;
 
-5 - Button to edit the list.&#x20;
+5 - Button to [edit the list](spisok-analizov.md#editing-a-list-of-tests).&#x20;
 
 6 - Button to view the list separately in a new window.&#x20;
 

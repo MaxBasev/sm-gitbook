@@ -2,37 +2,37 @@
 layout: landing
 ---
 
-# Просмотр заказов клиента
+# Viewing client's orders.
 
-Первый пункт меню страницы клиента — это его заказы. В правом верхнем углу расположена кнопка обновления данных о заказах пользователя (1). Ниже расположен список всех заказов пользователя в виде карточек.
+The first menu item on the client's page is their orders. In the top right corner, there is a button to refresh the user's order data (1). Below, there is a list of all the user's orders displayed as cards.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-24 at 20.15.40.png" alt=""><figcaption></figcaption></figure>
 
-Карточка заказа (2) состоит из следующих пунктов (по изображению):
+The order card (2) consists of the following elements (as shown in the image):
 
-3 — Даты бронирования.
+3 - Booking dates.
 
-4 — Статус заказа. Возможны следующие варианты:
+4 - Order status. The following options are possible:
 
-* ожидает подтверждения (заказ оформлен, но оплата ещё не произведена);
-* истёк (заказ был оформлен, но в течении часа оплата не была произведена) — такой заказ может быть изменён на подтвержденный, при редактировании заказа и внесении информации об оплате (если комната, указанная в заказе, уже забронирована, то при редактировании её будет необходимо поменять);
-* будущий (подтвержденный заказ, который только предстоит);
-* текущий (подтвержденный заказ, клиент находится в клиники);
-* прошедший (подтверждённый закончившийся заказ);
-* отменённый — отменить заказ можно только вручную в Дашборде, такие заказы нельзя восстановить.
+* Awaiting confirmation (order has been placed but payment has not been made yet).
+* Expired (order was placed, but payment was not made within an hour). Such an order can be changed to confirmed by editing the order and providing payment information (if the room specified in the order is already booked, it will need to be changed during editing).
+* Future (confirmed order that is yet to come).
+* Current (confirmed order, client is currently in the clinic).
+* Past (confirmed order that has already ended).
+* Canceled - Orders can only be canceled manually in the Dashboard, and canceled orders cannot be restored.
 
-5 — Информация о создании заказа: когда был создан заказ и в какой системе (Дашборд или страница Букинга).
+5 - Order creation information: when the order was created and in which system (Dashboard or Booking page).
 
-6 — Общая информация об оплате заказа (базовая стоимость заказа, сколько внесено предоплаты, оплачен ли заказ полностью).
+6 - Overall payment information for the order (base cost of the order, amount of prepayment made, whether the order is fully paid).
 
-7 — Список пациентов в заказе.
+7 - List of patients in the order.
 
-8 — Кнопки быстрого редактирования заказа:
+8 - Quick order editing buttons:
 
-* копка подтверждения заказа: при нажатии на кнопку появляется форма с полем для внесения суммы предоплаты (кнопка доступная только для заказов, ожидающих подтверждение);
-* кнопка отмены заказа: при нажатии появляется окно с подтверждением необходимости операции отмены — только после подтверждения заказ переходит в статус Отменён;
-* кнопка полной оплаты заказа: при нажатии на кнопку также появляется окно с подтверждением операции (кнопка недоступна для отменённых и просроченных заказов).
+* Order confirmation button: When clicked, a form appears with a field to enter the prepayment amount (button only available for orders awaiting confirmation).
+* Order cancellation button: When clicked, a confirmation window appears before proceeding with the cancellation operation. After confirmation, the order status changes to Canceled.
+* Full payment button: When clicked, a confirmation window appears for the operation (button unavailable for canceled and expired orders).
 
-9 — Кнопка [редактирования заказа](../../../ru/menu/booking-section/edit-booking.md).
+9 - Order editing button.
 
-10 — История заказа.
+10 - Order history.

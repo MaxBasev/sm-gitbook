@@ -2,110 +2,110 @@
 layout: landing
 ---
 
-# Создание нового инвойса
+# Creating a new invoice
 
-Чтобы создать новый инвойс, необходимо перейти из главного меню в пункт "Инвойс" ➡️ "Создать новый".
+To create a new invoice, go to the "Invoice" ➡️ "Create New" item in the main menu.
 
-Форма добавления новоего инвойса визуально поделена на три части:
+The form for adding a new invoice is visually divided into three parts:
 
-1. Ввод общих данных по инвойсу — какому клиенту назначен инвойс, на какие числа, добавление скидок, добавление к инвойсу оздоровительных программ и проживания.
-2. Добавление услуг в инвойс (не включая оздоровительных программ и оплату проживания).&#x20;
-3. Итоговая сумма по инвойсу и добавление произведённой по инвойсу оплаты.
+1. Inputting general invoice data - assigning the invoice to a client, specifying the dates, adding discounts, including wellness programs and accommodation in the invoice.
+2. Adding services to the invoice (excluding wellness programs and accommodation).
+3. Total amount for the invoice and inputting the payment made for the invoice.
 
-Рассмотрим каждую часть подробнее.
+Let's examine each part in more detail.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 14.01.07.png" alt=""><figcaption></figcaption></figure>
 
-На изображении ввод общих данных по инвойсу:
+In the image, the input of general invoice data:
 
-1 — Выбор клиента, которому необходимо добавить инвойс. При нажатии на поле и ввода данных, появляется список всех пациентов. Для корректного добавления недостаточно просто ввести данные клиента, необходимо выбрать клиента из списка. Данное поле обязательно для заполнения.
+1 — Selecting the client to whom the invoice should be added. When clicking on the input field, a list of all patients appears. It is not enough to simply input the client's data; you need to select the client from the list for correct addition. This field is mandatory.
 
-После выбора клиента, если у клиента есть бронирования, появляется поле выбора бронирования:
+After selecting the client, if the client has bookings, a field for selecting a booking appears:
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-Данное полe не обязательное для заполнения. После выбора бронирования, даты, на которое оформляется инвойс, заполнятся автоматически (их можно изменить вручную).
+This field is optional. After selecting a booking, the dates for which the invoice is being created are automatically filled (they can be manually changed).
 
-2 — "Неделя" — выбор условного периода, на который оформляется инвойс. Необязательное поле. Данное поле ни на что не влияет, и является визуальным помощником при работе со списком инвойсов. Доступны значения: 3 дня, 10 дней, 1 неделя, 2 недели, ...,  8 недель.
+2 — "Week" - selecting a conditional period for which the invoice is being created. This field is optional. It does not affect anything and serves as a visual aid when working with the invoice list. The available values are: 3 days, 10 days, 1 week, 2 weeks, ..., 8 weeks.
 
-3 — Период, на который оформляется инвойс. Если бронирование не выбрано, то данные поля заполняются вручную. Поле обязательное для заполнения,
+3 — Period for which the invoice is being created. If no booking is selected, the data in this field is manually entered. This field is mandatory.
 
-4 — Скидка в процентах. Проценты, применяются только к определённому списку услуг. По умолчанию 0%.
+4 — Discount in percentage. The percentage is applied only to a specific list of services. The default is 0%.
 
-5 — Сумма подарочного купона в долларах / скидка в долларах. По умолчанию $0.
+5 — Gift voucher amount in dollars / discount in dollars. The default is $0.
 
-6 — Оздоровительная программа. Поле не обязательное. При нажатии на поле, открывается список доступных программ. После выбора программ появляется новое поле с выбором пакета:
+6 — Wellness program. This field is optional. When clicking on the field, a list of available programs is displayed. After selecting a program, a new field for selecting a package appears:
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-При выборе оздоровительной программы, выбор пакета обязателен.
+When selecting a wellness program, selecting a package is mandatory.
 
-7 — Добавление оплаты проживания к инвойсу. Поле не обязательное для заполнения. После нажатия на поле, также открывается список комнат на выбор.
+7 — Adding accommodation payment to the invoice. This field is optional. When clicking on the field, a list of available rooms is also displayed.
 
-Следующий блок при создании нового инвойса — это добавление услуг к инвойсу. Поле добавления услуг выглядит следующим образом:
+The next section when creating a new invoice is adding services to the invoice. The service addition field looks as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 14.25.54 (1).png" alt=""><figcaption></figcaption></figure>
 
-1 — Название поля/раздела.
+1 — Field/section name.
 
-2 — Кнопка загрузка шаблона перечня услуг.&#x20;
+2 — Button to upload a service list template.
 
-3 — Поле поиска/фильтрации услуг: поиск происходит по всем столбцам списка.
+3 — Service search/filtering field: search is performed across all columns of the list.
 
-4 — Выбор типа услуги: все, процедуры, анализы или натуропатик. Тип услуги "Натуропатик" становится доступным, только после выбора процедуры, включающей в себя натуропатический протокол.
+4 — Selecting the service type: all, procedures, analyses, or naturopathy. The "Naturopathy" service type becomes available only after selecting a procedure that includes a naturopathic protocol.
 
-5 — Выбор категории услуг.
+5 — Selecting the service category.
 
-6 — Включить/выключить просмотр только выбранных услуг.
+6 — Enabling/disabling the view of only selected services.
 
-7 — Кнопка очистить выбор услуг.
+7 — Button to clear the selection of services.
 
-8 — Список всех услуг в виде таблицы.
+8 — List of all services in a table format.
 
-9 — Первый столбец таблицы — это чекбокс выбора услуги.
+9 — The first column of the table is a checkbox to select a service.
 
-10 — Последний столбец таблицы — добавление количества выбранной услуги в инвойс (по умолчанию, услуга добавляется в единственном экземпляре).
+10 — The last column of the table is for adding the quantity of the selected service to the invoice (by default, a service is added in a single instance).
 
-11 — Общее количество выбранных услуг.
+11 — Total number of selected services.
 
-12 — Общее количество выбранных типов услуг.
+12 — Total number of selected service types.
 
-13 — Общее количество выбранных категорий услуг.
+13 — Total number of selected service categories.
 
-14 — Общяя стоимость услуг в инвойсе.
+14 — Total cost of services in the invoice.
 
-15 — Панель навигации по страницам таблицы.
+15 — Navigation panel for the table pages.
 
-Следующая часть инвойса — это информация о полученной в инвойсе сумме к оплате и поля ввода подтверждения оплаты:
+The next part of the invoice is the information about the payment amount received and the payment confirmation input fields:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 15.30.25.png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Поле для списания бонусов клиента. Поле доступно только если у клиента есть бонусы на списание.
+1 — Field for deducting the client's bonus points. This field is available only if the client has bonuses eligible for deduction.
 
-2 — Общая стоимость инвойса.
+2 — Total cost of the invoice.
 
-3 — Стоимость инвойса с применением скидок.
+3 — Invoice cost with applied discounts.
 
-4 — Поле ввода внесённой предоплаты инвойса.
+4 — Field to input the advance payment made
 
-5 — Поле подтверждения, что инвойс оплачен полностью.
+5 — Field for confirming that the invoice has been fully paid.
 
-Если в инвойс добавить данные, то данная часть приобретёт следующий вид:
+If data is added to the invoice, this part will appear as follows:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 15.33.59.png" alt=""><figcaption></figcaption></figure>
 
-1 — Поле просмотра, как сформировалась сумма со скидкой. Если нажать на "Развернуть", то можно увидеть например следующее:
+1 — Field for viewing how the discounted amount is calculated. If you click on "Expand," you can see, for example, the following:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 15.33.30.png" alt=""><figcaption></figcaption></figure>
 
-2 — Кнопка создания нового инвойса доступна только тогда, когда заполенно минимальное количество данных (оздоровительная программа или проживание или хотя бы одна услуга).
+2 — The button to create a new invoice is only available when the minimum amount of data is filled in (wellness program or accommodation or at least one service).
 
-3 — Кнопка создания нового шаблона услуг. Доступна только когда выбрана хотя бы одна услуга из списка.
+3 — The button to create a new service template. It is only available when at least one service is selected from the list.
 
-Сразу после сохранения инвойса, открывается новое окно с полученным инвойсом для распечатки.
+Immediately after saving the invoice, a new window opens with the generated invoice for printing.
 
-Пример страницы создания инвойса с заполненными полями:
+Example of an invoice creation page with filled fields:
 
 <figure><img src="../../../.gitbook/assets/sybillehealth.com_dashboard_invoice_create.png" alt=""><figcaption></figcaption></figure>

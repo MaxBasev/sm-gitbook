@@ -2,31 +2,31 @@
 layout: landing
 ---
 
-# Редактирование инвойса
+# Editing an invoice
 
-Чтобы открыть инвойс для редактирования, необходимо нажать на кнопку "Редактировать" рядом с инвойсом на странице клиента или на странице со списком инвойсов.
+To open an invoice for editing, you need to click on the "Edit" button next to the invoice on the client's page or on the invoice list page.
 
-Прежде чем откроется страница редактирования, появится предупреждение: "Если цены на услуги изменились с момента последнего изменения инвойса, то инвойс будет пересчитан по новым ценам (после сохранения). Вы уверены, что хотите внести изменения в инвойс?"&#x20;
+Before the editing page opens, a warning will appear: "If prices for services have changed since the last invoice modification, the invoice will be recalculated based on the new prices (after saving). Are you sure you want to make changes to the invoice?"
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 15.21.07.png" alt=""><figcaption></figcaption></figure>
 
-Только после подтверждения откроется страница для редактирования инвойса.
+Only after confirmation, the invoice editing page will open.
 
-Страница редактирования инвойса аналогична странице создания инвойса за некоторым исключением:
+The invoice editing page is similar to the invoice creation page with some exceptions:
 
 <figure><img src="../../../.gitbook/assets/sybillehealth.com_dashboard_user_6304d432fdc02a5ba8064180_invoices_646a07e263a2490012fc27b3.png" alt=""><figcaption></figcaption></figure>
 
-1 — Предупреждение о возможном изменении цен.
+1 — Warning about possible price changes.&#x20;
 
-2 — Статус инвойса.
+2 — Invoice status.&#x20;
 
-3 — Старая цена инвойса без скидок.
+3 — Old invoice price without discounts.&#x20;
 
-4 — Старая цена инвойса со скидками.
+4 — Old invoice price with discounts.&#x20;
 
-5 — Кнопка "Сохранить изменения".
+5 — "Save Changes" button.&#x20;
 
-6 — Кнопка "Открыть инвойс отдельно в новом окне".
+6 — "Open Invoice in a New Window" button.
 
-На изображении видно, что кнопка создать инвойс остаётся доступной, поэтому при необходимости, инвойс можно повторить, внеся незначительные изменения.
+In the image, you can see that the "Create Invoice" button remains available, so if needed, the invoice can be duplicated with minor modifications.
 

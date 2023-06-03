@@ -2,31 +2,31 @@
 layout: landing
 ---
 
-# Просмотр всех инвойсов
+# Viewing all invoices
 
-Чтобы просмотреть все инвойсы, необходимо перейти в пункт главного меню "Инвойсы" ➡️ "Просмотреть всё".&#x20;
+To view all invoices, you need to go to the "Invoices" ➡️ "View All" section of the main menu.
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 16.54.57.png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Поле поиска по списку.
+1 — Search field for the list.
 
-2 — Список инвойсов в виде таблицы.
+2 — List of invoices displayed in a table format.
 
-3 — Навигация по страницам таблицы.
+3 — Navigation through the table pages.
 
-Таблица состоит из следующих данных:
+The table consists of the following data:
 
-1. Номер инвойса (присваевается автоматически при создании инвойса).
-2. Имя пациента (имя пациента является и ссылкой на страницу пациента).
-3. Дата начала инвойса.
-4. Дата окончания инвойся.
-5. Количество услуг в инвойсе (не считая оздоровительной программы и проживания);
-6. Итоговая стоимость инвойса.
-7. Размер скидки.
-8. Размер внесенной предоплаты.
-9. Размер списанных бонусов клиента.
-10. Статус инвойса.
-11. Информация о создании инвойса (когда и кем).
-12. Ссылка на инвойс.
+1. Invoice number (assigned automatically upon invoice creation).
+2. Patient name (the patient name is also a link to the patient's page).
+3. Start date of the invoice.
+4. End date of the invoice.
+5. Number of services in the invoice (excluding wellness programs and accommodation).
+6. Total cost of the invoice.
+7. Discount amount.
+8. Prepayment amount.
+9. Redeemed client bonuses amount.
+10. Invoice status.
+11. Invoice creation information (when and by whom).
+12. Link to the invoice.

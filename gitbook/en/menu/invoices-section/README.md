@@ -2,16 +2,16 @@
 layout: landing
 ---
 
-# Раздел инвойсов
+# Invoice
 
-Основные вопросы:
+Main questions:
 
-* [Последние инвойсы](../../../ru/menu/invoices-section/last-invoices.md)
-* [Создание нового инвойса](../../../ru/menu/invoices-section/creating-new-invoice.md)
-* [Редактирование инвойса](../../../ru/menu/invoices-section/edit-invoice.md)
-* [Шаблоны (создание, редактирование и применение)](../../../ru/menu/invoices-section/templates.md)
-* [Просмотр всех инвойсов](../../../ru/menu/invoices-section/see-all-invoices.md)
+* [Recent invoices](last-invoices.md)
+* [Creating a new invoice](creating-new-invoice.md)
+* [Editing an invoice](edit-invoice.md)
+* [Templates (creation, editing, and application)](templates.md)
+* [Viewing all invoices](see-all-invoices.md)
 
-Для просмотра инвойсов предусмотрен отдельный пункт в главном меню, состоящий из нескольких подпунктов, как показано на изображении:
+To view invoices, there is a separate item in the main menu, consisting of several sub-items, as shown in the image:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 21.01.19.png" alt=""><figcaption></figcaption></figure>

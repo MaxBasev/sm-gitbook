@@ -2,52 +2,52 @@
 layout: landing
 ---
 
-# Шаблоны (просмотра, создание, редактирование и применение)
+# Templates (viewing, creating, editing, and applying)
 
-#### Просмотр доступных шаблонов
+#### Viewing available templates
 
-Чтобы просмотреть доступные шаблоны услуг для работы с инвойсами, необходимо перейти из главного меню в пункт "Инвойс" ➡️ "Шаблоны". Откроется страница следующего содержания:
+To view the available service templates for working with invoices, you need to go from the main menu to "Invoice" ➡️ "Templates". This will open a page with the following content:
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Слева расположен список шаблонов с поиском; справа — область для просмотра выбранного шаблона.
+On the left side, there is a list of templates with a search function; on the right side, there is an area to view the selected template.
 
-Пример выбранного шаблона:
+Example of a selected template:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 16.16.21.png" alt=""><figcaption></figcaption></figure>
 
-На изображении:
+In the image:
 
-1 — Название шаблона.
+1 — Template name.
 
-2 — Кнопка для переименования шаблона.
+2 — Button to rename the template.
 
-3 — Кнопка для удаления шаблона.
+3 — Button to delete the template.
 
-4 — Список услуг в виде таблице.
+4 — List of services in table format.
 
-#### Создание шаблона
+#### Creating a template
 
-Чтобы создать новый шаблон, необходимо открыть страницу создания инвойса, либо страницу редактирования инвойса. После необходимо выбрать услуги, как было показано в разделе [Создание нового инвойса](../../../ru/menu/invoices-section/creating-new-invoice.md), и нажать кнопку "Создать новый шаблон". После чего появится окно для ввода названия инвойса:
+To create a new template, you need to open the invoice creation page or the invoice editing page. Then, select the services as shown in the section "Creating a new invoice" and click the "Create New Template" button. This will bring up a window to enter the template name:
 
 <figure><img src="../../../.gitbook/assets/image (7) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-Введя название шаблона и нажав кнопку "Создать шаблон", будет создан новый шаблон.
+By entering the template name and clicking the "Create Template" button, a new template will be created.
 
-#### Редактирование шаблонов
+#### Editing templates
 
-Чтобы отредактировать название шаблона, необходимо перейти на страницу просмотра всех шаблонов и нажать кнопку "Редактировать" ([Просмотр доступных шаблонов](templates.md#prosmotr-dostupnykh-shablonov)).
+To edit the template name, you need to go to the page displaying all templates and click the "Edit" button (Viewing available templates).
 
-На данном этапе разработки приложения, изменять состав услуг в шаблоне нельзя.
+At this stage of application development, it is not possible to modify the list of services in the template.
 
-#### Применение шаблонов
+#### Applying templates
 
-Чтобы применить шаблон, необходимо открыть страницу создания или редактирования инвойса и нажать на кнопку "Загрузить шаблон":
+To apply a template, you need to open the invoice creation or editing page and click the "Load Template" button:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 16.37.46.png" alt=""><figcaption></figcaption></figure>
 
-После чего появится окно со списком доступных шаблонов. Выберете нужный шаблон и нажмите кнопку "Загрузить шаблон":
+Then, a window with a list of available templates will appear. Select the desired template and click the "Load Template" button:
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 16.38.13.png" alt=""><figcaption></figcaption></figure>
 
-После этого окно со списком закроется, а на странице работы с инвойсом к списку выбранных услуг добавятся услуги из шаблона в указанном в шаблоне количеством. Каждый раз загружая шаблон, он добавляется к уже выбранным услугам, причём в случае, если услуга уже выбрана, то количество этой услуг суммируется.
+After that, the window with the list will close, and on the invoice management page, the selected services will be added to the list of chosen services as specified in the template. Each time a template is loaded, it is added to the already selected services, and if a service is already selected, the quantities of that service are summed.

@@ -60,7 +60,5 @@
 
 ### [Раздел настроек](settings-section/)
 
-* [Настройка медицинских записей](broken-reference)
-* [Просмотр историй](settings-section/viewing-histories.md)
-* [Просмотр данных сотрудников ](broken-reference)
+* [Медицинские записи: просмотр историй](settings-section/viewing-histories.md)
 * [Просмотр запросов на вывод средств](settings-section/viewing-withdrawal-requests.md)

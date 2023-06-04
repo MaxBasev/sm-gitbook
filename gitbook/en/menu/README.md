@@ -2,65 +2,81 @@
 
 ### [Working with the Application](../../ru/menu/work-with-dashboard.md)
 
-* [Из чего состоит приложение (клиентская часть)](./#client-admin-parts)
-* [Страница бронирования](./#booking-page)
-* [Часть администраторов](./#admin-section)
-* [Вход в приложение](./#admin-login)
-* [Основные элементы](./#basic-elements)
-* [Создание нового пользователя](./#create-new-user)
-* [Права и группы пользователей](./#staff-roles)
+* [What does the application consist of (client-side)](./#client-admin-parts)
+* [Booking page](./#booking-page)
+* [Administrator section](./#admin-section)
+* [Logging into the application](./#admin-login)
+* [Key elements](./#basic-elements)
+* [Creating a new user](./#create-new-user)
+* [User permissions and groups](./#staff-roles)
 
-### [Раздел To Do](../../ru/menu/to-do-section/)
+### [To Do Section](./#to-do-section)
 
-* [Задачи пользователя](../../ru/menu/to-do-section/user-tasks.md)
-* [Создание задач и назначение другим сотрудникам](../../ru/menu/to-do-section/creating-tasks.md)
-* [Просмотр статистики](../../ru/menu/to-do-section/viewing-statistics.md)
+* [User tasks](to-do-section/user-tasks.md)
+* [Creating tasks and assigning them to other employees](to-do-section/creating-tasks.md)
+* [Viewing statistics](to-do-section/viewing-statistics.md)
 
-### [Календарь](../../ru/menu/calendar-section/)
+### [Calendar](./#calendar)
 
-* [Список текущих клиентов](../../ru/menu/calendar-section/list-of-current-clients.md)
-* [Отображение в виде таймлайна](../../ru/menu/calendar-section/displaying-as-a-timeline.md)
-* [Вывод на печать списка клиентов](../../ru/menu/calendar-section/printing-the-client-list.md)
+* [List of current clients](calendar-section/list-of-current-clients.md)&#x20;
+* [Displaying as a timeline](calendar-section/displaying-as-a-timeline.md)
+* [Printing the list of clients](calendar-section/printing-the-client-list.md)
 
-### [Раздел пациентов](../../ru/menu/patients-section/)
+### [Patient section](./#patient-section)
 
-* [Список пациентов](../../ru/menu/patients-section/list-of-patients.md)
-* [Поиск по списку](../../ru/menu/patients-section/search-clients.md)
-* [Создание нового пациента](../../ru/menu/patients-section/create-new-patient.md)
+* [Patient List](patients-section/list-of-patients.md)
+* [Search within the list](patients-section/search-clients.md)
+* [Create a new patient](patients-section/create-new-patient.md)
+* [Edit patient information](patients-section/redaktirovanie-dannykh-pacienta.md)
 
-### [Раздел Patient Record](../../ru/menu/patient-record-section/)
+### [Patient Record](./#patient-record)
 
-* [Основные данные клиента](../../ru/menu/patient-record-section/basic-client-information.md)
-* [Просмотре заказов клиента](../../ru/menu/patient-record-section/viewing-client-orders.md)
-* [Просмотр инвойсов](../../ru/menu/patient-record-section/viewing-invoices.md)
-* [Медицинские записи](../../ru/menu/patient-record-section/medical-records.md)
-* [Список процедур](../../ru/menu/patient-record-section/list-of-procedures.md)
-* [Расписание](../../ru/menu/patient-record-section/schedule.md)
-* [Баланс](../../ru/menu/patient-record-section/balance.md)
-* [Дополнительные функции](../../ru/menu/patient-record-section/additional-features.md)
+* [Basic Client Information](patient-record-section/basic-client-information.md)&#x20;
+* [Viewing Client Orders](patient-record-section/viewing-client-orders.md)&#x20;
+* [Viewing Invoices](patient-record-section/viewing-invoices.md)&#x20;
+* [Medical Records ](patient-record-section/medical-records.md)
+* [Analyses List](patient-record-section/spisok-analizov.md)
+* [Procedure List ](patient-record-section/list-of-procedures.md)
+* [Schedule](patient-record-section/schedule.md)&#x20;
+* [Balance](patient-record-section/balance.md)&#x20;
+* [Additional Features](patient-record-section/additional-features.md)
 
-### [Раздел бронирования](../../ru/menu/booking-section/)
+### [Booking](./#booking)
 
-* [Просмотр всех бронирований](../../ru/menu/booking-section/viewing-all-bookings.md)
-* [Создание нового бронирования](../../ru/menu/booking-section/creating-a-new-booking.md)
-* [Редактирование бронирования](../../ru/menu/booking-section/edit-booking.md)
+* [View all bookings](booking-section/viewing-all-bookings.md)
+* [Creating a new booking](booking-section/creating-a-new-booking.md)
+* [Editing a booking](booking-section/edit-booking.md)
 
-### [Раздел инвойсов](../../ru/menu/invoices-section/)
+### [Invoice section](./#invoice-section)
 
-* [Последние инвойсы](../../ru/menu/invoices-section/last-invoices.md)
-* [Создание нового инвойса](../../ru/menu/invoices-section/creating-new-invoice.md)
-* [Редактирование инвойса](../../ru/menu/invoices-section/edit-invoice.md)
-* [Шаблоны (создание, редактирование и применение)](../../ru/menu/invoices-section/templates.md)
-* [Просмотр всех инвойсов](../../ru/menu/invoices-section/see-all-invoices.md)
+* [Recent invoices](invoices-section/last-invoices.md)
+* [Creating a new invoice](invoices-section/creating-new-invoice.md)
+* [Editing an invoice](invoices-section/edit-invoice.md)
+* [Templates (creation, editing, and application)](invoices-section/templates.md)
+* [Viewing all invoices](invoices-section/see-all-invoices.md)
 
-### [Раздел платежей](../../ru/menu/payments-section/)&#x20;
+### [Payments section](./#payments-section)
 
-* [Просмотр статистики](../../ru/menu/to-do-section/viewing-statistics.md)
-* [Ввод расходов](../../ru/menu/payments-section/entering-expenses.md)
+* [Viewing statistics](to-do-section/viewing-statistics.md)
+* [Entering expenses](payments-section/entering-expenses.md)
 
-### [Раздел настроек](../../ru/menu/settings-section/)
+### [Settings section](./#settings-section)
 
-* [Настройка медицинских записей](broken-reference)
-* [Просмотр историй](../../ru/menu/settings-section/viewing-histories.md)
-* [Просмотр данных сотрудников ](broken-reference)
-* [Просмотр запросов на вывод средств](../../ru/menu/settings-section/viewing-withdrawal-requests.md)
+* [Medical Records: Viewing history](settings-section/viewing-histories.md)
+* [Viewing withdrawal requests](settings-section/viewing-withdrawal-requests.md)
+
+### [Patient personal account](./#patient-personal-account)
+
+* [Login to the personal account](./#login-to-the-personal-account)
+  * [Registration in the personal account](./#registration-in-the-personal-account)
+  * [Authorization in the personal account](./#authorization-in-the-personal-account)
+  * [Password recovery](./#password-recovery)
+* [Functions of the personal account](./#functions-of-the-personal-account)
+  * [Home page](./#home-page)
+  * [Medical records](./#medical-records)
+  * [Bookings](./#orders)
+  * [Invoices](./#invoices)
+  * [Schedule](./#schedule)
+  * [Bonus balance](./#bonus-balance)
+  * [Settings](./#personal-settings)
+* [Log out of the personal account](./#log-out-of-the-personal-account)

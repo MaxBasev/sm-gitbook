@@ -80,7 +80,7 @@
     * [Viewing all bookings](en/menu/booking-section/viewing-all-bookings.md)
     * [Creating a new booking](en/menu/booking-section/creating-a-new-booking.md)
     * [Editing a booking](en/menu/booking-section/edit-booking.md)
-  * [Invoice](en/menu/invoices-section/README.md)
+  * [Invoice section](en/menu/invoices-section/README.md)
     * [Recent invoices](en/menu/invoices-section/last-invoices.md)
     * [Creating a new invoice](en/menu/invoices-section/creating-new-invoice.md)
     * [Editing an invoice](en/menu/invoices-section/edit-invoice.md)

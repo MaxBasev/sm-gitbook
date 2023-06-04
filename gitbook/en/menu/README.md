@@ -1,6 +1,6 @@
 # Menu
 
-### [Working with the Application](../../ru/menu/work-with-dashboard.md)
+### [Working with the Application](./#working-with-the-application)
 
 * [What does the application consist of (client-side)](./#client-admin-parts)
 * [Booking page](./#booking-page)

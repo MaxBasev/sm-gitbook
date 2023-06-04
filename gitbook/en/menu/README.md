@@ -2,13 +2,13 @@
 
 ### [Working with the Application](work-with-dashboard.md)
 
-* [What does the application consist of (client-side)](./#client-admin-parts)
-* [Booking page](./#booking-page)
-* [Administrator section](./#admin-section)
-* [Logging into the application](./#admin-login)
-* [Key elements](./#basic-elements)
-* [Creating a new user](./#create-new-user)
-* [User permissions and groups](./#staff-roles)
+* [What does the application consist of (client-side)](work-with-dashboard.md#client-admin-parts)
+* [Booking page](work-with-dashboard.md#booking-page)
+* [Administrator section](work-with-dashboard.md#admin-section)
+* [Logging into the application](work-with-dashboard.md#admin-login)
+* [Key elements](work-with-dashboard.md#basic-elements)
+* [Creating a new user](work-with-dashboard.md#create-new-user)
+* [User permissions and groups](work-with-dashboard.md#staff-roles)
 
 ### [To Do Section](to-do-section/)
 
@@ -67,16 +67,6 @@
 
 ### [Patient personal account](./#patient-personal-account)
 
-* [Login to the personal account](./#login-to-the-personal-account)
-  * [Registration in the personal account](./#registration-in-the-personal-account)
-  * [Authorization in the personal account](./#authorization-in-the-personal-account)
-  * [Password recovery](./#password-recovery)
-* [Functions of the personal account](./#functions-of-the-personal-account)
-  * [Home page](./#home-page)
-  * [Medical records](./#medical-records)
-  * [Bookings](./#orders)
-  * [Invoices](./#invoices)
-  * [Schedule](./#schedule)
-  * [Bonus balance](./#bonus-balance)
-  * [Settings](./#personal-settings)
-* [Log out of the personal account](./#log-out-of-the-personal-account)
+* [Login to the personal account](lichnyi-kabinet-pacienta.md#login-to-the-personal-account)
+* [Functions of the personal account](lichnyi-kabinet-pacienta.md#functions-of-the-personal-account)
+* [Log out of the personal account](lichnyi-kabinet-pacienta.md#log-out-of-the-personal-account)

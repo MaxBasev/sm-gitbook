@@ -2,13 +2,13 @@
 
 ### [Работа с приложением](work-with-dashboard.md)
 
-* [Из чего состоит приложение (клиентская часть)](./#client-admin-parts)
-* [Страница бронирования](./#booking-page)
-* [Часть администраторов](./#admin-section)
-* [Вход в приложение](./#admin-login)
-* [Основные элементы](./#basic-elements)
-* [Создание нового пользователя](./#create-new-user)
-* [Права и группы пользователей](./#staff-roles)
+* [Из чего состоит приложение (клиентская часть)](work-with-dashboard.md#client-admin-parts)
+* [Страница бронирования](work-with-dashboard.md#booking-page)
+* [Часть администраторов](work-with-dashboard.md#admin-section)
+* [Вход в приложение](work-with-dashboard.md#admin-login)
+* [Основные элементы](work-with-dashboard.md#basic-elements)
+* [Создание нового пользователя](work-with-dashboard.md#create-new-user)
+* [Права и группы пользователей](work-with-dashboard.md#staff-roles)
 
 ### [Раздел To Do](to-do-section/)
 
@@ -62,3 +62,9 @@
 
 * [Медицинские записи: просмотр историй](settings-section/viewing-histories.md)
 * [Просмотр запросов на вывод средств](settings-section/viewing-withdrawal-requests.md)
+
+### [Личный кабинет пациента](lichnyi-kabinet-pacienta.md)
+
+* [Вход в личный кабинет](lichnyi-kabinet-pacienta.md#vkhod-v-lichnyi-kabinet)
+* [Функции личного кабинета](lichnyi-kabinet-pacienta.md#funkcii-lichnogo-kabineta)
+* [Выход из личного кабинета](lichnyi-kabinet-pacienta.md#vykhod-iz-lichnogo-kabineta)

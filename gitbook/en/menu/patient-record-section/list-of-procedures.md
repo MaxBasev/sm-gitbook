@@ -103,6 +103,8 @@ The form for adding procedures within the creation of a medical record looks the
 * Field for entering a comment about the procedure.
 * Columns for selecting the preferred days of the week for performing procedures (from Monday to Saturday, each day has a separate column with a checkbox for selection).
 
+There is a limit to the number of days of the week selected: you cannot select more days than the number of procedures, but the number of procedures can be specified more than the number of days selected. Thus, the information in the "Count" column has priority over the selected days of the week.
+
 #### Editing a list of procedures
 
 The page for editing a list of procedures is similar to the page for creating a list. Example:

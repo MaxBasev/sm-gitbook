@@ -56,7 +56,7 @@ Clicking on the button located in the last column of the table expands detailed 
 
 First, the clients listed in the booking are listed (1), along with brief information about the client and the room reserved for the client. The client's name serves as a link to their page.
 
-Next is the information email sending form (2): an email input field, a selection for the email type, and a send button. This form is only available for confirmed bookings.
+Next is the information email sending form (2): an email input field, a selection for the email type, and a send button. This form is only available for confirmed bookings. For the "After deposit " letter type, you can choose the letter language (English or Russian).
 
 Below the form is the email sending history (3): when, at what time, to which email, and by which staff member the email was sent.
 

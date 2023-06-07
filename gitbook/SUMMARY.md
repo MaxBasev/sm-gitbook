@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Updates](updates.md)
 
 ## 😶 RU
 
@@ -10,6 +11,7 @@
     * [Задачи пользователя](ru/menu/to-do-section/user-tasks.md)
     * [Создание задач и назначение другим сотрудникам](ru/menu/to-do-section/creating-tasks.md)
     * [Просмотр статистики](ru/menu/to-do-section/viewing-statistics.md)
+  * [Расписание врачей](ru/menu/raspisanie-vrachei.md)
   * [Календарь](ru/menu/calendar-section/README.md)
     * [Список текущих клиентов](ru/menu/calendar-section/list-of-current-clients.md)
     * [Отображение в виде таймлайна](ru/menu/calendar-section/displaying-as-a-timeline.md)
@@ -56,6 +58,7 @@
     * [User Tasks](en/menu/to-do-section/user-tasks.md)
     * [Creating tasks and assigning them to other employees](en/menu/to-do-section/creating-tasks.md)
     * [Viewing statistics](en/menu/to-do-section/viewing-statistics.md)
+  * [Doctors' Schedule](en/menu/doctors-schedule.md)
   * [Calendar](en/menu/calendar-section/README.md)
     * [List of Current Clients](en/menu/calendar-section/list-of-current-clients.md)
     * [Displaying as a Timeline](en/menu/calendar-section/displaying-as-a-timeline.md)

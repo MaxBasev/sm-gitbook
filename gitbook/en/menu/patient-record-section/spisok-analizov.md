@@ -18,7 +18,7 @@ The client's list of tests looks as follows:
 
 3 - The list of tests is presented in the form of cards.&#x20;
 
-4 - Date on which the entry needs to be made and the creator of the list.&#x20;
+4 - Date on which the entry needs to be made and the creator of the list (date and time are set manually when creating/editing the list, by default it is the current time on your computer).&#x20;
 
 5 - Button to [edit the list](spisok-analizov.md#editing-a-list-of-tests).&#x20;
 

@@ -26,7 +26,7 @@ In the image:
 
 3 - Card of an individual list.&#x20;
 
-4 - Information about the date, time, and creator of the list.&#x20;
+4 - Information about the date, time, and creator of the list (date and time are set manually when creating/editing the list, by default it is the current time on your computer).&#x20;
 
 5 - Button to edit the list of procedures.&#x20;
 

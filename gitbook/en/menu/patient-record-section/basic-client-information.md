@@ -26,16 +26,20 @@ By default, when accessing the client's page, information about their bookings i
 
 The left panel of the page consists of the following parts:
 
-![](<../../../.gitbook/assets/Screenshot 2023-05-24 at 19.48.27 copy.png>)
+![](<../../../.gitbook/assets/Screenshot 2023-06-14 at 17.15.36.png>)
 
-1 - Client's first and last name.&#x20;
+1 — The status of the client in the system (for non-staff doctors, the status "Doctor" is displayed, for ordinary patients nothing is displayed).
 
-2 - [Edit client's data](../patients-section/redaktirovanie-dannykh-pacienta.md) button.&#x20;
+2 - Client's first and last name.&#x20;
 
-3 - General information about the client.&#x20;
+3 - [Edit client's data](../patients-section/redaktirovanie-dannykh-pacienta.md) button.&#x20;
 
-4 - Client's registration time in the personal account (if the client is not registered, this line is absent).&#x20;
+4 - General information about the client.&#x20;
 
-5 - Menu items of the client's page.&#x20;
+5 - Client's registration time in the personal account (if the client is not registered, this line is absent).&#x20;
 
-6 - Pin/unpin client from quick access button. Quick access to clients is located in the upper right corner, next to the system user icon.
+6 — Package of procedures that is selected in the current or future client order.
+
+7 - Menu items of the client's page.&#x20;
+
+8 - Pin/unpin client from quick access button. Quick access to clients is located in the upper right corner, next to the system user icon.

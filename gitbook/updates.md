@@ -4,6 +4,10 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### June 11, 2023
+
+A package of procedures has been added to the application. The package is selected when [creating/editing a booking](en/menu/booking-section/creating-a-new-booking.md) from the Dashboard.
+
 ### June 9, 2023
 
 The error of time recording when creating the Treatments List and the Tests List (Analyses) was corrected: when viewing the history of these lists, the time zone is added.&#x20;

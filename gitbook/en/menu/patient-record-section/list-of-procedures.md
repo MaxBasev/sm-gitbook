@@ -62,17 +62,21 @@ To create a list of procedures, you need to either go to the medical record crea
 
 The page for creating a list of procedures looks as follows:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 20.38.30.png" alt=""><figcaption></figcaption></figure>
-
 In the image:
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-14 at 18.10.47.png" alt=""><figcaption></figcaption></figure>
 
 1 - Link to the previous page.&#x20;
 
 2 - Brief information about the client for whom the list is being created.&#x20;
 
-3 - Date and time for which the entry needs to be made.&#x20;
+3 - Package of procedures specified in the current or future order.&#x20;
 
-4 - Form for adding procedures to the list.
+4 - List of procedures included in the package.
+
+5 - Date and time for which the entry needs to be made.&#x20;
+
+6 - Form for adding procedures to the list.
 
 The creation button is located at the bottom of the page below the form.
 

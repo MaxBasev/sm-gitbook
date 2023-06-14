@@ -20,15 +20,17 @@ Upon clicking the "Add Client" button, a data entry form for the guest within th
 
 The data entry form for the guest looks as follows:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 16.13.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-14 at 16.57.00.png" alt=""><figcaption></figcaption></figure>
 
-1 — Remove the guest from the booking.&#x20;
+1 — Serial number of the guest in the order.
 
-2 — Client type: new client or client already existing in the system.&#x20;
+2 — Remove the guest from the booking.&#x20;
 
-3 — Input fields for the new client's data (all fields are mandatory).&#x20;
+3 — Client type: new client or client already existing in the system.&#x20;
 
-4 — Client status in the booking.
+4 — Input fields for the new client's data (all fields are mandatory).&#x20;
+
+5 — Client status in the booking.
 
 {% hint style="info" %}
 **Please note!**
@@ -41,7 +43,7 @@ The system has two client statuses.
 When creating a booking through the Booking system, only one companion is allowed per patient.
 {% endhint %}
 
-5 — Room where the client will stay.
+6 — Room where the client will stay.
 
 {% hint style="info" %}
 **Please note!**
@@ -49,9 +51,13 @@ When creating a booking through the Booking system, only one companion is allowe
 The Dashboard system has a special room/location called "Visiting", which should be used for incoming clients who do not need to stay in the clinic's rooms.
 {% endhint %}
 
-6 — Comment visible to the client in their personal account.&#x20;
+7 — he field for selecting a package of procedures.
 
-7 — Comment visible only to Dashboard users.
+8 — Comment visible to the client in their personal account.&#x20;
+
+9 — Comment visible only to Dashboard users.
+
+10 — Button "Add a patient to the order"
 
 If the client already exists in the system, the client selection field will look as follows:
 

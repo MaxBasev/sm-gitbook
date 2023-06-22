@@ -68,7 +68,7 @@ The quick operation buttons for the booking vary depending on the booking status
 
 Example of a booking awaiting confirmation:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 14.38.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-22 at 17.15.19.png" alt=""><figcaption></figcaption></figure>
 
 
 

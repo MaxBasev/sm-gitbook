@@ -68,8 +68,4 @@ layout: landing
 
 Пример заказа, ожидающего подтверждение:&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-26 at 14.38.26.png" alt=""><figcaption></figcaption></figure>
-
-
-
-&#x20;
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-22 at 17.15.19 (1).png" alt=""><figcaption></figcaption></figure>

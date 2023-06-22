@@ -20,7 +20,7 @@ Upon clicking the "Add Client" button, a data entry form for the guest within th
 
 The data entry form for the guest looks as follows:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-14 at 16.57.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-22 at 17.14.43.png" alt=""><figcaption></figcaption></figure>
 
 1 — Serial number of the guest in the order.
 
@@ -35,12 +35,13 @@ The data entry form for the guest looks as follows:
 {% hint style="info" %}
 **Please note!**
 
-The system has two client statuses.
+The system has еркуу client statuses.
 
 1. Patient: a client who comes to the clinic for procedures.
-2. Companion: a client who does not undergo any procedures but stays in one of the clinic's rooms. For such clients, there is an additional "Meal" field, which is paid separately.
+2. Accompanying person: a client who does not undergo any procedures but stays in one of the clinic's rooms. For such clients, there is an additional "Meal" field, which is paid separately.
+3. NOT CLIENT.
 
-When creating a booking through the Booking system, only one companion is allowed per patient.
+When creating a booking through the Bookings system, only two statuses are available — patient and accompanying person. Only one accompanying person is available per patient.
 {% endhint %}
 
 6 — Room where the client will stay.

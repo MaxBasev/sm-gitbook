@@ -6,7 +6,7 @@ layout: landing
 
 When navigating to the Calendar page, by default, the list of all clients for the current week is displayed.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-23 at 20.49.16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-22 at 17.13.21 (1).png" alt=""><figcaption></figcaption></figure>
 
 In the image:
 
@@ -16,8 +16,10 @@ In the image:
 
 3 — Column selection for display in the list.
 
-4 — List of clients: It displays the clients associated with the selected period.
+4 — Filtering by customer status.
 
-5 — Button for saving the list as a PDF file.
+5 — List of clients: It displays the clients associated with the selected period.
 
-6 — Pop-up panel with information about the booking of the selected client. The client is selected by clicking on the corresponding row in the list.
+6 — Button for saving the list as a PDF file.
+
+7 — Pop-up panel with information about the booking of the selected client. The client is selected by clicking on the corresponding row in the list.

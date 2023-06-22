@@ -4,6 +4,25 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### June 22, 2023
+
+Dashboard:
+
+1. Calendar view: added columns with information about who and from which system the order was created.
+2. Calendar View: added filtering of the list by customer status - current customer or new customer.
+3. Creating a booking: now when creating an order you can specify one of the three client statuses - "patient", "accompaining person", "not client".
+
+Client application:
+
+1. Added mandatory confirmation of Patient Agreement when logging in for the first time.
+2. Orders presentation has been changed, displayed data have been enlarged.
+
+General:
+
+1. Added additional user email verification.
+2. Optimized request processing speed.
+3. Improved Dashboard interface.
+
 ### June 11, 2023
 
 A package of procedures has been added to the application. The package is selected when [creating/editing a booking](en/menu/booking-section/creating-a-new-booking.md) from the Dashboard.

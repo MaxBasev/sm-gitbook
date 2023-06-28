@@ -6,8 +6,8 @@
 
 ### June 28, 2023
 
-1. Physicians have been added the ability to mark performed procedures in the schedule.
-2. Corrected errors with time in the ToDo section.
+1. Therapists have been added the ability to mark performed procedures in the schedule.
+2. Corrected errors with time in the ToDo section.&#x20;
 3. Preparations have been made to create the Warehouse section:
    1. Structured data.
    2. Made changes to the Expenses section.

@@ -4,6 +4,16 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### June 28, 2023
+
+1. Physicians have been added the ability to mark performed procedures in the schedule.
+2. Corrected errors with time in the ToDo section.
+3. Preparations have been made to create the Warehouse section:
+   1. Structured data.
+   2. Made changes to the Expenses section.
+4. Corrected the display of the schedule in the patient's personal account.
+5. Fixed sorting of invoices when requesting more than 50 items.
+
 ### June 22, 2023
 
 Dashboard:

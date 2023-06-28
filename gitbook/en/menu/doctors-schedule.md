@@ -4,7 +4,7 @@ To view the doctors' schedules, go to the main menu item "Schedule".&#x20;
 
 The treatment list is downloaded from Simplybook.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-07 at 14.27.12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-28 at 19.54.23 (1).png" alt=""><figcaption></figcaption></figure>
 
 The page for viewing the doctor's schedule consists of the following elements (see the image above):&#x20;
 
@@ -18,12 +18,24 @@ The page for viewing the doctor's schedule consists of the following elements (s
 
 5 — Schedule as a table.&#x20;
 
+The table consists of the following columns:&#x20;
+
+* Date.&#x20;
+* Day of the week.&#x20;
+* Time of procedure.&#x20;
+* Name of procedure.&#x20;
+* Patient name.&#x20;
+* Procedure Execution checkbox.&#x20;
+
+The procedure is set manually by the doctor.
+
 ### Mobile view
 
 In the mobile version of the application:&#x20;
 
 * there is no button to download the schedule;&#x20;
-* the schedule is presented as a list (see the image below).
+* the schedule is presented as a list (see the image below),
+* the procedure execution checkbox is also located on the right side of the procedure.
 
-![](<../../.gitbook/assets/Screenshot 2023-06-07 at 14.28.13.png>)
+![](<../../.gitbook/assets/Screenshot 2023-06-28 at 19.54.42 (2).png>)
 

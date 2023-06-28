@@ -6,7 +6,7 @@ layout: landing
 
 When navigating to the Calendar page, by default, the list of all clients for the current week is displayed.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-22 at 17.13.21 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-22 at 17.13.21.png" alt=""><figcaption></figcaption></figure>
 
 In the image:
 

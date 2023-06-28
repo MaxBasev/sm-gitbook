@@ -4,7 +4,7 @@ To view the doctors' schedules, go to the main menu item "Schedule".&#x20;
 
 The treatment list is downloaded from Simplybook.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-28 at 19.54.23 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-28 at 19.54.23.png" alt=""><figcaption></figcaption></figure>
 
 The page for viewing the doctor's schedule consists of the following elements (see the image above):&#x20;
 

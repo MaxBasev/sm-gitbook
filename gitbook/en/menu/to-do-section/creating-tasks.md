@@ -16,7 +16,7 @@ In the image:
 
 3 — Deadline checkbox: It enables or disables the deadline for the task.
 
-4 — Deadline input fields: These fields are only available if the deadline checkbox is enabled, allowing inputting the task deadline.
+4 — Deadline input fields: These fields are only available if the deadline checkbox is enabled, allowing inputting the task deadline. Depends on the time zone of the user.
 
 5 — Priority level selection: It allows choosing the priority level for task execution (high, medium, low, or no priority).
 

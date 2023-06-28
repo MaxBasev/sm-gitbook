@@ -4,7 +4,7 @@
 
 Расписание врачей подгружается из системы Simplybook.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-06-28 at 19.54.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-06-28 at 19.54.23 (1).png" alt=""><figcaption></figcaption></figure>
 
 Страница просмотра расписания врачей состоит из следующих элементов (см. изображение выше):
 

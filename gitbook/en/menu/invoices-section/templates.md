@@ -8,7 +8,7 @@ layout: landing
 
 To view the available service templates for working with invoices, you need to go from the main menu to "Invoice" ➡️ "Templates". This will open a page with the following content:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 On the left side, there is a list of templates with a search function; on the right side, there is an area to view the selected template.
 

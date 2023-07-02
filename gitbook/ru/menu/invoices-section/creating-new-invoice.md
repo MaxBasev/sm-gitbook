@@ -14,7 +14,7 @@ layout: landing
 
 Рассмотрим каждую часть подробнее.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-02 at 20.41.49.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-02 at 20.41.49 (1).png" alt=""><figcaption></figcaption></figure>
 
 На изображении ввод общих данных по инвойсу:
 
@@ -100,11 +100,11 @@ layout: landing
 
 Если в инвойс добавить данные, то данная часть приобретёт следующий вид:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-02 at 20.57.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-02 at 20.57.29 (2).png" alt=""><figcaption></figcaption></figure>
 
 1 — Поле просмотра, как сформировалась сумма со скидкой. Если нажать на "Развернуть", то можно увидеть например следующее:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 2 — Кнопка создания нового инвойса доступна только тогда, когда заполенно минимальное количество данных (оздоровительная программа или проживание или хотя бы одна услуга).
 

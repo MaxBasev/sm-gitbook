@@ -14,7 +14,7 @@ The form for adding a new invoice is visually divided into three parts:
 
 Let's examine each part in more detail.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-02 at 20.41.49 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-02 at 20.41.49.png" alt=""><figcaption></figcaption></figure>
 
 In the image, the input of general invoice data:
 
@@ -104,7 +104,7 @@ If data is added to the invoice, this part will appear as follows:
 
 1 — Field for viewing how the discounted amount is calculated. If you click on "Expand," you can see, for example, the following:
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 2 — The button to create a new invoice is only available when the minimum amount of data is filled in (wellness program or accommodation or at least one service).
 

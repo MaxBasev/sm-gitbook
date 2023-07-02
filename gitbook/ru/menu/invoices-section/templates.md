@@ -8,7 +8,7 @@ layout: landing
 
 Чтобы просмотреть доступные шаблоны услуг для работы с инвойсами, необходимо перейти из главного меню в пункт "Инвойс" ➡️ "Шаблоны". Откроется страница следующего содержания:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Слева расположен список шаблонов с поиском; справа — область для просмотра выбранного шаблона.
 

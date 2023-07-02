@@ -37,5 +37,5 @@ In the mobile version of the application:&#x20;
 * the schedule is presented as a list (see the image below),
 * the procedure execution checkbox is also located on the right side of the procedure.
 
-![](<../../.gitbook/assets/Screenshot 2023-06-28 at 19.54.42 (2).png>)
+![](<../../.gitbook/assets/Screenshot 2023-06-28 at 19.54.42.png>)
 

@@ -10,7 +10,7 @@ To create a new booking, you need to click on the "Booking" ➡️ "Create New" 
 
 After that, a window will open with only one field for entering the check-in date. Clicking on the field will display a special date selection form:
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 After selecting the date, a button for adding a client will appear:
 

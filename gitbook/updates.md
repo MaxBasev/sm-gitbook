@@ -4,6 +4,13 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### July 2, 2023
+
+1. Added the ability to add gratuity to [invoices](en/menu/invoices-section/creating-new-invoice.md) when creating and editing.
+2. Updated appearance of invoices.
+3. Optimized the method of constructing invoices.
+4. Prepared for adding the "Stock" section: navigation and placement of the section on the site.
+
 ### June 28, 2023
 
 1. Therapists have been added the ability to mark performed procedures in [the schedule](en/menu/doctors-schedule.md).

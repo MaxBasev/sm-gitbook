@@ -14,7 +14,7 @@ The form for adding a new invoice is visually divided into three parts:
 
 Let's examine each part in more detail.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 14.01.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-02 at 20.41.49 (1).png" alt=""><figcaption></figcaption></figure>
 
 In the image, the input of general invoice data:
 
@@ -41,6 +41,8 @@ This field is optional. After selecting a booking, the dates for which the invoi
 When selecting a wellness program, selecting a package is mandatory.
 
 7 — Adding accommodation payment to the invoice. This field is optional. When clicking on the field, a list of available rooms is also displayed.
+
+8 — Field for entering gratuity in percent. Gratuity are calculated from the total amount with all discounts.
 
 The next section when creating a new invoice is adding services to the invoice. The service addition field looks as follows:
 
@@ -78,7 +80,7 @@ The next section when creating a new invoice is adding services to the invoice. 
 
 The next part of the invoice is the information about the payment amount received and the payment confirmation input fields:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 15.30.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-02 at 20.48.33 (1).png" alt=""><figcaption></figcaption></figure>
 
 In the image:
 
@@ -88,17 +90,21 @@ In the image:
 
 3 — Invoice cost with applied discounts.
 
+4 — Amount of gratuity in dollars.&#x20;
+
+5 — The cost of the invoice with a gratuity.
+
 4 — Field to input the advance payment made
 
 5 — Field for confirming that the invoice has been fully paid.
 
 If data is added to the invoice, this part will appear as follows:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 15.33.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-02 at 20.57.29 (1).png" alt=""><figcaption></figcaption></figure>
 
 1 — Field for viewing how the discounted amount is calculated. If you click on "Expand," you can see, for example, the following:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-27 at 15.33.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 2 — The button to create a new invoice is only available when the minimum amount of data is filled in (wellness program or accommodation or at least one service).
 

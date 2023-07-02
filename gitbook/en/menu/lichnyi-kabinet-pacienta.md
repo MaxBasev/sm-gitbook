@@ -96,7 +96,7 @@ The home page displays news, notifications, and quick access to certain function
 
 On the medical records page, you can find the results of medical examinations and doctors' conclusions.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 Medical records are divided into four categories:
 
@@ -109,7 +109,7 @@ Medical records are divided into four categories:
 
 On the bookings page, you can view detailed information about all the bookings you have made.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Invoices
 

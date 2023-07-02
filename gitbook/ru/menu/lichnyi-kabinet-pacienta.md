@@ -96,7 +96,7 @@
 
 На странице медицинских записей, находятся результаты медицинских исследования и заключения врачей.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 Медицинские записи поделены на четыре категории:
 
@@ -109,7 +109,7 @@
 
 На странице бронирований можно просмотреть подробную информацию по всем бронирования, которые делал клиент.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Инвойсы
 

@@ -42,7 +42,7 @@ layout: landing
 
 #### Пример записи в истории назначений анализов:
 
-<figure><img src="../../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Запись состоит из следующих частей:
 

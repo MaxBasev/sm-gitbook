@@ -4,6 +4,12 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### July 12, 2023
+
+1. Added [Stock section](en/menu/stock/).&#x20;
+2. Adjusted the Expenses section.&#x20;
+3. Updated database structure
+
 ### July 2, 2023
 
 1. Added the ability to add gratuity to [invoices](en/menu/invoices-section/creating-new-invoice.md) when creating and editing.

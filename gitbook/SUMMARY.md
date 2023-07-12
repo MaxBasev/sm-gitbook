@@ -46,7 +46,7 @@
     * [Просмотр статистики](ru/menu/payments-section/viewing-statistics.md)
     * [Ввод расходов](ru/menu/payments-section/entering-expenses.md)
   * [Склад](ru/menu/sklad/README.md)
-    * [Общяя информация](ru/menu/sklad/obshyaya-informaciya.md)
+    * [Общая информация](ru/menu/sklad/obshaya-informaciya.md)
     * [Добавление материала на склад](ru/menu/sklad/dobavlenie-materiala-na-sklad.md)
     * [Корректировка количества материала на складе](ru/menu/sklad/korrektirovka-kolichestva-materiala-na-sklade.md)
     * [Просмотр истории](ru/menu/sklad/prosmotr-istorii.md)

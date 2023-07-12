@@ -49,6 +49,8 @@
     * [Общяя информация](ru/menu/sklad/obshyaya-informaciya.md)
     * [Добавление материала на склад](ru/menu/sklad/dobavlenie-materiala-na-sklad.md)
     * [Корректировка количества материала на складе](ru/menu/sklad/korrektirovka-kolichestva-materiala-na-sklade.md)
+    * [Просмотр истории](ru/menu/sklad/prosmotr-istorii.md)
+    * [Корректировка данных материала](ru/menu/sklad/korrektirovka-dannykh-materiala.md)
   * [Раздел настроек](ru/menu/settings-section/README.md)
     * [Медицинские записи: просмотр историй](ru/menu/settings-section/viewing-histories.md)
     * [Просмотр запросов на вывод средств](ru/menu/settings-section/viewing-withdrawal-requests.md)

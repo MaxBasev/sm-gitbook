@@ -50,7 +50,7 @@ layout: landing
 
 Для входа в систему сотруднику нужно перейти по ссылке - [https://sybillehealth.com/dashboard](https://sybillehealth.com/dashboard).&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Выбираем аккаунт с помощью которого хотим зайти (если их несколько в браузере).
 

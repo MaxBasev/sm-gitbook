@@ -104,7 +104,7 @@ If data is added to the invoice, this part will appear as follows:
 
 1 — Field for viewing how the discounted amount is calculated. If you click on "Expand," you can see, for example, the following:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 2 — The button to create a new invoice is only available when the minimum amount of data is filled in (wellness program or accommodation or at least one service).
 

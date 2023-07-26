@@ -8,15 +8,30 @@ layout: landing
 
 The first screen that opens upon logging into the system is the User To Do. By default, the tab displaying the list of all tasks is opened.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-22 at 22.03.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-26 at 14.01.37 (1).png" alt=""><figcaption></figcaption></figure>
 
-In the image:
+In the image:&#x20;
 
-1 — User selection field: It allows choosing the user whose tasks need to be viewed. This field is only available to employees with the corresponding access level. If the field is not available, the tasks of the current user are selected by default.
+1. Navigating through the task work pages:&#x20;
+   1. Viewing all tasks;&#x20;
+   2. Creating a new task;&#x20;
+   3. View statistics.&#x20;
+2. Selecting a task category to display (available only for users with a certain access level):&#x20;
+   1. Viewing tasks associated with the current user (assigned personally by the user, or assigned to a user);&#x20;
+   2. View tasks associated with a specific user.&#x20;
+3. Selecting a subcategory of tasks. This field appears when a category is selected for viewing tasks associated with the current user. The following subcategories are provided:&#x20;
+   1. View all tasks associated with the current user;&#x20;
+   2. View all tasks assigned to the current user by other users;&#x20;
+   3. View tasks assigned by the current user to other people;&#x20;
+   4. Viewing tasks assigned by the current user to themselves.&#x20;
+4. Number of active tasks and active tasks with expired deadline.
+5. List of all active tasks.&#x20;
+6. List of all completed tasks.&#x20;
+7. Number of all completed tasks, completed tasks successfully, canceled tasks.&#x20;
 
-2 — Current user tasks: These tasks are sorted by the priority level of execution.
+If the category of viewing tasks by a specific user is selected, the page will take the following form:
 
-3 — Completed user tasks: These tasks are sorted by the completion time.
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-26 at 13.57.25 (1).png" alt=""><figcaption></figcaption></figure>
 
 All tasks are characterized by: \
 a) Deadline for task completion (which may be absent). \

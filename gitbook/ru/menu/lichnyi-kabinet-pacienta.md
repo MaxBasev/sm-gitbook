@@ -109,7 +109,9 @@
 
 На странице бронирований можно просмотреть подробную информацию по всем бронирования, которые делал клиент.
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+![](../../.gitbook/assets/sybillehealth.com\_profile\_orders\_view.png)
 
 #### Инвойсы
 

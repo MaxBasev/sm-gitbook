@@ -109,7 +109,9 @@ Medical records are divided into four categories:
 
 On the bookings page, you can view detailed information about all the bookings you have made.
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+![](<../../.gitbook/assets/sybillehealth.com\_profile\_orders\_view (1).png>)
 
 #### Invoices
 

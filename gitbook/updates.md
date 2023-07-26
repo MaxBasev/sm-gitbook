@@ -4,6 +4,14 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### July 26, 2023
+
+1. Additional ways to filter tasks have been added to the [ToDo section](en/menu/to-do-section/user-tasks.md).&#x20;
+2. Fixed minor display errors in invoice categories.&#x20;
+3. Unused procedures have been hidden in the Invoices and in the Treatments Lists.&#x20;
+4. The procedures table in the database has been completely updated.&#x20;
+5. Preparations for the implementation of functionality for adding procedures to the shopping cart on the site.
+
 ### July 12, 2023
 
 1. Added [Stock section](en/menu/stock/).&#x20;

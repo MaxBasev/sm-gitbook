@@ -50,7 +50,7 @@ If the payment is successfully processed, the client will receive an email with 
 
 To log into the system as an employee, you need to visit the following link - [https://sybillehealth.com/dashboard](https://sybillehealth.com/dashboard).
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If there are multiple accounts saved in the browser, you can choose the specific account you wish to use to log in. This can typically be done by clicking on the relevant account profile.
 

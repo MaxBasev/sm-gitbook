@@ -49,4 +49,4 @@ Clicking on the edit entry button displays a form with the following format:
 
 There is also an option to view the sum of selected expenses. To do this, select the desired expenses by clicking on the entry. At the bottom of the page, a panel will appear: on the left is the clear selection button, and on the right is the sum of the selected entries.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (3).png" alt=""><figcaption></figcaption></figure>

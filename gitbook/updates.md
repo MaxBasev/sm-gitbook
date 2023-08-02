@@ -4,6 +4,10 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### August 2, 2023
+
+Fixed a bug on the invoice creation/editing page that occurred when searching for treatments.
+
 ### July 26, 2023
 
 1. Additional ways to filter tasks have been added to the [ToDo section](en/menu/to-do-section/user-tasks.md).&#x20;

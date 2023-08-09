@@ -64,7 +64,7 @@ The page for creating a list of procedures looks as follows:
 
 In the image:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-14 at 18.10.47.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-14 at 18.10.47.png (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 1 - Link to the previous page.&#x20;
 
@@ -74,15 +74,17 @@ In the image:
 
 4 - List of procedures included in the package.
 
-5 - Date and time for which the entry needs to be made.&#x20;
+5 - Select the period for which the list is drawn up.
 
-6 - Form for adding procedures to the list.
+6 - Date and time for which the entry needs to be made.&#x20;
+
+7 - Form for adding procedures to the list.
 
 The creation button is located at the bottom of the page below the form.
 
 The form for adding procedures is shown in the image below.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-05-25 at 20.43.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-08-09 at 19.32.24 (1).png" alt=""><figcaption></figcaption></figure>
 
 The form for adding procedures within the creation of a medical record looks the same way. The form consists of:
 
@@ -105,7 +107,17 @@ The form for adding procedures within the creation of a medical record looks the
 * Cost.
 * Field for entering the quantity of procedures.
 * Field for entering a comment about the procedure.
-* Columns for selecting the preferred days of the week for performing procedures (from Monday to Saturday, each day has a separate column with a checkbox for selection).
+* Columns for selecting the preferred days of the week for performing procedures (from Monday to Saturday, each day has a separate column with a checkbox for selection). Above the name of each day of the week, the number of free hours on that day is indicated (the field is for informational purposes; information is not collected from other lists; it is assumed that only one list of procedures is issued for the specified user for the specified period): the number of hours is obtained from the working hours of the clinic (without taking into account the time of eating) on the specified day minus the total time of the selected procedures; if the time of the procedures exceeds the opening hours of the clinic on that day, the number turns red.
+
+7 — Information about the number of selected procedures and their total cost.&#x20;
+
+8 — Navigating the table.&#x20;
+
+9 — The total time of the clinic without taking into account the time of eating for the selected period.&#x20;
+
+10 — Total time for the selected procedures.&#x20;
+
+11 — Button to save / update the list of procedures.
 
 There is a limit to the number of days of the week selected: you cannot select more days than the number of procedures, but the number of procedures can be specified more than the number of days selected. Thus, the information in the "Count" column has priority over the selected days of the week.
 

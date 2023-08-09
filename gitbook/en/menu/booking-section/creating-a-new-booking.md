@@ -80,7 +80,7 @@ At the bottom of the page, after adding clients to the booking, the following da
 
 3 — Total price of the booking. This field is calculated automatically and cannot be manually changed.
 
-4 — Prepayment input field.
+4 — Prepayment input field. There is a minimum prepayment threshold of $400, i.е. From $1 to $399, you cannot prepay. $0 means no prepayment was made. The restriction does not apply to clients with the "Not a Client" status.
 
 5 — Create Booking button.
 

@@ -4,6 +4,12 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### August 9, 2023
+
+1. [Create/Edit Bookings](en/menu/booking-section/creating-a-new-booking.md): The minimum prepayment threshold is $400. Threshold does not work for "non-clients".
+2. [Treatments List](en/menu/patient-record-section/list-of-procedures.md#creating-a-list-of-procedures): a field has been added to select the period for which the list is drawn up. You can add a list for the current week, for the next week, or for an arbitrary period. The field is required.
+3. [Treatments List](en/menu/patient-record-section/list-of-procedures.md#creating-a-list-of-procedures): added display of time available for procedures. Look [here](en/menu/patient-record-section/list-of-procedures.md#creating-a-list-of-procedures).
+
 ### August 2, 2023
 
 Fixed a bug on the invoice creation/editing page that occurred when searching for treatments.

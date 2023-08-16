@@ -4,6 +4,12 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### August 16, 2023
+
+1. Two rooms were hidden from the Online Booking system: Dorado King, Coral Room - at the moment they are available for booking only from Dashboard. Cabo Room was hidden from all systems earlier.
+2. Added restriction on editing bookings: if there are less than 21 days left before the check-in date, only users with a certain access level can edit it.
+3. In the Online Booking system, the weekday of check-in has been changed to Saturday.
+
 ### August 9, 2023
 
 1. [Create/Edit Bookings](en/menu/booking-section/creating-a-new-booking.md): The minimum prepayment threshold is $400. Threshold does not work for "non-clients".

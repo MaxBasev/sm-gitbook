@@ -4,6 +4,13 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### August 24, 2023
+
+1. A [Microscopy section](en/menu/patient-record-section/microscopy.md) has been added to the patient's profile. The section consists of two parts: image uploading is possible only from the doctor's profile, while filling out the questionnaire is feasible from both the doctor's and the patient's profiles.
+2. The [doctor's](en/menu/doctors-schedule.md) and [patient's schedules](en/menu/patient-record-section/schedule.md) (both in the dashboard and personal profile) now display comments. The data is fetched from the Simplibook system.
+3. Preparation for inventory management improvement has been carried out: a date input field has been added when adding an inventory item or changing the quantity of an item in the inventory.
+4. In the Treatments List addition section, information about the time already spent by other lists within the selected period has been incorporated.
+
 ### August 16, 2023
 
 1. Two rooms were hidden from the Online Booking system: Dorado King, Coral Room - at the moment they are available for booking only from Dashboard. Cabo Room was hidden from all systems earlier.

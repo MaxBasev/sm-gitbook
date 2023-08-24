@@ -9,6 +9,7 @@ Main questions:
 * [Functions of the personal account](lichnyi-kabinet-pacienta.md#functions-of-the-personal-account)
   * [Home page](lichnyi-kabinet-pacienta.md#home-page)
   * [Medical records](lichnyi-kabinet-pacienta.md#medical-records)
+  * [Microscopy](lichnyi-kabinet-pacienta.md#microscopy)
   * [Bookings](lichnyi-kabinet-pacienta.md#orders)
   * [Invoices](lichnyi-kabinet-pacienta.md#invoices)
   * [Schedule](lichnyi-kabinet-pacienta.md#schedule)

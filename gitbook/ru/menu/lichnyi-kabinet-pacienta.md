@@ -9,6 +9,7 @@
 * [Функции личного кабинета](lichnyi-kabinet-pacienta.md#funkcii-lichnogo-kabineta)
   * [Домашняя страница](lichnyi-kabinet-pacienta.md#domashnyaya-stranica)
   * [Медицинские записи](lichnyi-kabinet-pacienta.md#medicinskie-zapisi)
+  * [Микроскопия](lichnyi-kabinet-pacienta.md#mikroskopiya)
   * [Бронирования](lichnyi-kabinet-pacienta.md#bronirovaniya)
   * [Инвойсы](lichnyi-kabinet-pacienta.md#invoisy)
   * [Расписание](lichnyi-kabinet-pacienta.md#raspisanie)

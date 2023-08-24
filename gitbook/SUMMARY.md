@@ -28,6 +28,7 @@
     * [Медицинские записи](ru/menu/patient-record-section/medical-records.md)
     * [Список анализов](ru/menu/patient-record-section/spisok-analizov.md)
     * [Список процедур](ru/menu/patient-record-section/list-of-procedures.md)
+    * [Микроскопия](ru/menu/patient-record-section/mikroskopiya.md)
     * [Расписание](ru/menu/patient-record-section/schedule.md)
     * [Опросы](ru/menu/patient-record-section/oprosy.md)
     * [Баланс](ru/menu/patient-record-section/balance.md)

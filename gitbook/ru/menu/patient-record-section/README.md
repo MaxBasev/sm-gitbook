@@ -11,6 +11,7 @@ layout: landing
 * [Просмотр инвойсов](viewing-invoices.md)
 * [Медицинские записи](medical-records.md)
 * [Список процедур](list-of-procedures.md)
+* [Микроскопия](mikroskopiya.md)
 * [Расписание](schedule.md)
 * [Баланс](balance.md)
 * [Дополнительные функции](additional-features.md)

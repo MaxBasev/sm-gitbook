@@ -105,6 +105,12 @@ Medical records are divided into four categories:
 * Files.
 * Input information: this section contains data that you brought to the clinic and that does not change over time (for example, your birthplace, inherited diseases, etc.).
 
+#### Microscopy
+
+<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+
 #### Orders
 
 On the bookings page, you can view detailed information about all the bookings you have made.

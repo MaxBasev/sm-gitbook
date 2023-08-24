@@ -82,6 +82,7 @@
     * [Medical records](en/menu/patient-record-section/medical-records.md)
     * [List of tests](en/menu/patient-record-section/spisok-analizov.md)
     * [List of procedures](en/menu/patient-record-section/list-of-procedures.md)
+    * [Microscopy](en/menu/patient-record-section/microscopy.md)
     * [Schedule](en/menu/patient-record-section/schedule.md)
     * [Questionnaires](en/menu/patient-record-section/oprosy.md)
     * [Balance](en/menu/patient-record-section/balance.md)

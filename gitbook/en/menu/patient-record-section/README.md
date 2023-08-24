@@ -12,6 +12,7 @@ Key questions:
 * [Medical Records ](medical-records.md)
 * [Analyses List](spisok-analizov.md)
 * [Procedure List ](list-of-procedures.md)
+* [Microscopy](microscopy.md)
 * [Schedule](schedule.md)&#x20;
 * [Balance](balance.md)&#x20;
 * [Additional Features](additional-features.md)

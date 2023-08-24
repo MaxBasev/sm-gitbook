@@ -13,14 +13,15 @@ To add a item, you need to go to the Stock page and click on the "Add" button lo
 
 After clicking on the button, a pop-up window of the following type will appear:
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-07-12 at 17.36.54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 On the image:&#x20;
 
-1. Input field for the name of the item.&#x20;
-2. Item category entry field.&#x20;
-3. A field for entering the number of item units in stock at the time of item creation.&#x20;
-4. Cancel button.&#x20;
-5. "Create" button. The button is available only when all fields are filled in correctly.&#x20;
+1. Input field for the date the item was added
+2. Input field for the name of the item.&#x20;
+3. Item category entry field.&#x20;
+4. A field for entering the number of item units in stock at the time of item creation.&#x20;
+5. Cancel button.&#x20;
+6. "Create" button. The button is available only when all fields are filled in correctly.&#x20;
 
 To exclude the appearance of duplicates, when entering the name and category of the item, a list of already existing names is displayed.

@@ -24,6 +24,7 @@ The table consists of the following columns:&#x20;
 * Day of the week.&#x20;
 * Time of procedure.&#x20;
 * Name of procedure.&#x20;
+* Comment.
 * Patient name.&#x20;
 * Procedure Execution checkbox.&#x20;
 

@@ -4,6 +4,15 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### September 11, 2023
+
+Treatments Lists section:
+
+1. The ability to add analyses in the Treatments Lists section has been removed. To add analyses, according to the rules, please use the [Medical Tests](en/menu/patient-record-section/medical-tests-list.md) section.
+2. The field for entering a single date has been deleted.
+3. The period for which the list is issued is now not selected by default.
+4. Added the ability to transfer the treatments list to Simplybook.
+
 ### August 24, 2023
 
 1. A [Microscopy section](en/menu/patient-record-section/microscopy.md) has been added to the patient's profile. The section consists of two parts: image uploading is possible only from the doctor's profile, while filling out the questionnaire is feasible from both the doctor's and the patient's profiles.

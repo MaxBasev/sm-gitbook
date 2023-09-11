@@ -35,7 +35,7 @@
 * [Viewing Client Orders](patient-record-section/viewing-client-orders.md)&#x20;
 * [Viewing Invoices](patient-record-section/viewing-invoices.md)&#x20;
 * [Medical Records ](patient-record-section/medical-records.md)
-* [Analyses List](patient-record-section/spisok-analizov.md)
+* [Analyses List](patient-record-section/medical-tests-list.md)
 * [Procedure List ](patient-record-section/list-of-procedures.md)
 * [Schedule](patient-record-section/schedule.md)&#x20;
 * [Balance](patient-record-section/balance.md)&#x20;

@@ -10,7 +10,7 @@ Key questions:
 * [Viewing Client Orders](viewing-client-orders.md)&#x20;
 * [Viewing Invoices](viewing-invoices.md)&#x20;
 * [Medical Records ](medical-records.md)
-* [Analyses List](spisok-analizov.md)
+* [Analyses List](medical-tests-list.md)
 * [Procedure List ](list-of-procedures.md)
 * [Microscopy](microscopy.md)
 * [Schedule](schedule.md)&#x20;

@@ -80,7 +80,7 @@
     * [Viewing client's orders.](en/menu/patient-record-section/viewing-client-orders.md)
     * [Viewing invoices](en/menu/patient-record-section/viewing-invoices.md)
     * [Medical records](en/menu/patient-record-section/medical-records.md)
-    * [List of tests](en/menu/patient-record-section/spisok-analizov.md)
+    * [Medical Tests List](en/menu/patient-record-section/medical-tests-list.md)
     * [List of procedures](en/menu/patient-record-section/list-of-procedures.md)
     * [Microscopy](en/menu/patient-record-section/microscopy.md)
     * [Schedule](en/menu/patient-record-section/schedule.md)

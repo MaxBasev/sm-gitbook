@@ -6,10 +6,10 @@
 
 ### September 18, 2023
 
-Changes have been made to the Microscopies section:
+Changes have been made to the [Microscopy section](en/menu/patient-record-section/microscopy.md):
 
 1. Added questionnaire.
-2. changed the algorithm of downloading files in Dashboard and in the Patient's Personal Cabinet.
+2. Changed the algorithm of downloading files in Dashboard and in the Patient's Personal Cabinet.
 3. Added the Medical report field.
 4. Changed algorithm for recording microscopy change history.
 5. Simplified the process of viewing microscopy in the patient's personal cabinet, changed the appearance based on the questionnaire data and adding the medical report.

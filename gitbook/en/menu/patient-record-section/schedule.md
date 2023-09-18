@@ -27,7 +27,7 @@ When the button to save the schedule as a PDF file is clicked, a pop-up menu ope
 \
 
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Example of the resulting PDF file:
 

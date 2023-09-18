@@ -108,15 +108,15 @@ Medical records are divided into four categories:
 
 #### Microscopy
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 #### Orders
 
 On the bookings page, you can view detailed information about all the bookings you have made.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/sybillehealth.com\_profile\_orders\_view (1).png>)
 
@@ -124,7 +124,7 @@ On the bookings page, you can view detailed information about all the bookings y
 
 On the invoices page, you can view a list of invoices with detailed information for each invoice: when the invoice was issued, which services are included, the total cost of the invoice, and the remaining amount to be paid.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Schedule
 
@@ -134,13 +134,13 @@ On the schedule page, you can view the schedule for a specific day. The schedule
 
 On the balance page, you can view a detailed history of bonus accruals and deductions in the system. The balance is increased by attracting new clients to the Santa Maria clinic through your referral link, which is provided on the main page of the personal account. Deductions from the balance are made by the clinic staff upon invoice issuance, based on your request.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Personal settings
 
 On the personal settings page, you can modify your personal information (such as name, surname, gender, date of birth, etc.), change your email address (for security purposes, you need to log out and log back into the system before changing your email), and reset your password (when resetting the password, an email with a link to change the password will be sent to the email address registered in the system).
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Log out of the personal account
 

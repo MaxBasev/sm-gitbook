@@ -24,7 +24,7 @@ layout: landing
 
 При нажатии на кнопку сохранения расписания в виде файла PDF, открывается всплывающее меню с выбором ориентации будущего документа (см. изображение нижу).
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Пример итогового файла PDF:
 

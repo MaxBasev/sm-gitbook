@@ -22,7 +22,7 @@ In the image, the input of general invoice data:
 
 After selecting the client, if the client has bookings, a field for selecting a booking appears:
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 This field is optional. After selecting a booking, the dates for which the invoice is being created are automatically filled (they can be manually changed).
 
@@ -104,7 +104,7 @@ If data is added to the invoice, this part will appear as follows:
 
 1 — Field for viewing how the discounted amount is calculated. If you click on "Expand," you can see, for example, the following:
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2 — The button to create a new invoice is only available when the minimum amount of data is filled in (wellness program or accommodation or at least one service).
 

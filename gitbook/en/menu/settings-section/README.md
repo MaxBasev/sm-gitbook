@@ -6,7 +6,7 @@ layout: landing
 
 The settings section is only available to users with specific roles and consists of three subsections:
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Key questions:
 

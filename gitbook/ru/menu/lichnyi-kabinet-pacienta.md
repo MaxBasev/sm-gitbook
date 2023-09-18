@@ -108,15 +108,15 @@
 
 #### Микроскопия
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### Бронирования
 
 На странице бронирований можно просмотреть подробную информацию по всем бронирования, которые делал клиент.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ![](../../.gitbook/assets/sybillehealth.com\_profile\_orders\_view.png)
 
@@ -124,7 +124,7 @@
 
 На странице инвойсов можно просмотреть список инвойсов с подробной информацией по каждому инвойсу: когда был составлен инвойс, какие услуги вошли в инвойс, общая стоимость инвойса, сколько осталось оплатить.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Расписание
 
@@ -134,13 +134,13 @@
 
 На странице баланса можно просмотреть подробную историю начислений и списаний бонусов в системе. Поступление баланса осуществляется за счёт привлечения новых клиентов в клинику Santa Maria по своей реферальной ссылке, указанной на главной странице личного кабинета. Списание баланса осуществляется, по вашему желанию работниками клиники при оформлении инвойса.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Персональный настройки
 
 На странице персональных настроек можно изменить свои персональные данные (такие как имя, фамилия, пол, дата рождения и прочее), изменить email (для изменения email, в целях безопасности, сначала необходимо выйти и снова войти в систему), и сбросить пароль (при сбросе пароля, на указанный в системе адрес электронной почты, придёт письмо со ссылкой на изменение пароля).
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Выход из личного кабинета
 

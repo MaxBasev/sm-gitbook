@@ -2,13 +2,13 @@
 
 Section of Client Microscopy is located in the corresponding menu on the client's page. The ability to add and edit microscopy is provided only to users with a certain level of access.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Adding Microscopy
 
 To add microscopy to a patient, you need to click the "Add" button located in the upper right corner of the respective page. The following page will open:
 
-<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the image::
 
@@ -22,12 +22,13 @@ After clicking the button, the microscopy will be added to the patient, and you 
 
 The microscopy page looks as follows and consists of four parts:
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Information about the patient.
 2. Information about the microscopy date with editing option.
 3. Field for displaying and adding microscopy images.
 4. Field for creating and filling out a microscopy questionnaire.
+5. Medical report input field.
 
 Let's consider each section in more detail.
 
@@ -77,20 +78,13 @@ In the lower right corner of the image, there is a magnification button. Clickin
 
 #### Questionnaire
 
-By default, a questionnaire is not created. To have a questionnaire appear in the system, there are two ways:
-
-1. The doctor manually generates the questionnaire from the Dashboard.
-2. The patient enters their personal account and fills out the questionnaire independently.
+By default, a questionnaire is not created, it must be generated manually if necessary.
 
 {% hint style="info" %}
 To have the questionnaire appear in the patient's personal account, at least one image must be added and saved to the microscopy.
 {% endhint %}
 
-{% hint style="info" %}
-By default, a patient can save the questionnaire only once. After saving, they can only view it. To make the questionnaire available for patient editing again, the doctor must grant permission (see below).
-{% endhint %}
-
-Immediately after creating microscopy, the questionnaire input field consists of two buttons: "Update Questionnaire" and "Generate Questionnaire." The update button allows you to see if the patient made any changes to the questionnaire.
+Immediately after creating microscopy, the questionnaire input field consists of two buttons: "Update Questionnaire" and "Generate Questionnaire."
 
 <figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
@@ -98,23 +92,22 @@ If changes were made to the questionnaire, the update button will load a list wi
 
 If the questionnaire already exists, the field will look as follows:
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-* "Update" button;
-* question list displayed in the form of a table. The first column contains a selection button (checkbox);
-* "Save" button located below the questions;
-* further down, there is information about whether the patient can edit the questionnaire or not, and a button to grant or cancel editing rights for the patient.
+"Save Questionnaire" button located below the table.
+
+#### Medical Report
+
+The field for entering a medical report is located at the bottom of the page.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Viewing Patient Microscopy
 
 After saving the microscopy, the client's page will change.
 
-<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-By default, when viewing the list of all conducted patient studies, only the microscopy date, who conducted the microscopy, and uploaded images are displayed. The questionnaire and history are hidden by default.
-
-To view the questionnaire, click the corresponding button.
-
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+The questionnaire and history are hidden by default. To view the questionnaire, click the corresponding button.
 
 To view the history, select the button located at the bottom left of the microscopy card.

@@ -14,7 +14,7 @@ After that, a window will open with only one field for entering the check-in dat
 
 After selecting the date, a button for adding a client will appear:
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Upon clicking the "Add Client" button, a data entry form for the guest within the booking will appear, and the "Add Client" button will move below the form. Each click on the button will display a new form, allowing you to add the required number of clients to the booking.
 

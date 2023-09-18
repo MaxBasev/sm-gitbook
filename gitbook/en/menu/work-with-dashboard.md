@@ -22,7 +22,7 @@ Key questions:
 
 The main link - [https://sybillehealth.com/](https://sybillehealth.com/). A client lands on it when they click on a referral link from another user.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Booking page  <a href="#booking-page" id="booking-page"></a>
 
@@ -32,11 +32,11 @@ Through this page, clients can make a reservation - [https://sybillehealth.com/b
 
 Clients select the duration, check-in date, enter guest information, and choose a room from the list of available options.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 After entering all the information and clicking the "Proceed to Payment" button, you will be redirected to the payment page.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The payment is processed using the PayPal service, with a fee of $400 per person. You will have 60 minutes to complete the payment. If the reservation is not paid within this time frame, it will be marked as "Expired," and the room will become available again.
 

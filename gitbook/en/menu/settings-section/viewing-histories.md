@@ -6,7 +6,7 @@ layout: landing
 
 The medical records section consists of the following parts:
 
-<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Medical records history.
 * Laboratory test assignments history.

@@ -4,6 +4,16 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### September 18, 2023
+
+Changes have been made to the Microscopies section:
+
+1. Added questionnaire.
+2. changed the algorithm of downloading files in Dashboard and in the Patient's Personal Cabinet.
+3. Added the Medical report field.
+4. Changed algorithm for recording microscopy change history.
+5. Simplified the process of viewing microscopy in the patient's personal cabinet, changed the appearance based on the questionnaire data and adding the medical report.
+
 ### September 11, 2023
 
 Treatments Lists section:

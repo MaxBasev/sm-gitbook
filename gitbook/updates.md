@@ -4,6 +4,16 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### September 30, 2023
+
+Changes have been made to the Questionnaire section:
+
+1. The Dashboard now includes the ability to create, edit, and delete Horowitz Questionnaire.
+2. An update has been made to the logout function in the patient's personal account system.
+3. The algorithm for collecting information on the patient discount page has been updated.
+4. Some terms in the system have been renamed.
+5. Data retrieval functions from the database have been updated.
+
 ### September 18, 2023
 
 Changes have been made to the [Microscopy section](en/menu/patient-record-section/microscopy.md):

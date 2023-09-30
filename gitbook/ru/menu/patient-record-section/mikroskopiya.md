@@ -24,7 +24,7 @@
 
 Страница микроскопии выглядит следующим образом и состоит из четырех частей:
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Информация о пациенте.
 2. Информация о дате проведения микроскопии с возможностью редактирования.

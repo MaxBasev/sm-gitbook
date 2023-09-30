@@ -12,7 +12,7 @@ By default, all available columns are selected for printing. On the column selec
 
 When you click the print button (2), a menu opens to select the orientation of the resulting PDF file:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Examples of the final PDF file:
 

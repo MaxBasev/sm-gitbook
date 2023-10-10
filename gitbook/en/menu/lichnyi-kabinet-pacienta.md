@@ -10,6 +10,7 @@ Main questions:
   * [Home page](lichnyi-kabinet-pacienta.md#home-page)
   * [Medical records](lichnyi-kabinet-pacienta.md#medical-records)
   * [Microscopy](lichnyi-kabinet-pacienta.md#microscopy)
+  * [Horowitz questionnaire](lichnyi-kabinet-pacienta.md#horowitz-questionnaire)
   * [Bookings](lichnyi-kabinet-pacienta.md#orders)
   * [Invoices](lichnyi-kabinet-pacienta.md#invoices)
   * [Schedule](lichnyi-kabinet-pacienta.md#schedule)
@@ -111,6 +112,16 @@ Medical records are divided into four categories:
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+#### Horowitz questionnaire
+
+In this section, the patient can independently fill out the Horowitz questionnaire. The results of this questionnaire are necessary for the doctor to conduct a better diagnosis. Once the questionnaire is filled out, it cannot be changed.
+
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 #### Orders
 

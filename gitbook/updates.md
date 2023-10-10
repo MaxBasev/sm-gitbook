@@ -4,6 +4,33 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### October 10, 2023
+
+Dashboard system:
+
+1. Updated control over patient creation and editing.
+2. Added the ability to delete Treatments lists for users with specific access levels.
+3. Added information to the Questionnaire section for surveys created by the patient independently from their personal account.&#x20;
+4. Updated algorithms for processing and loading data.
+
+Online booking system:
+
+1. Created a layout for quickly creating and adapting registration pages for clinic events.
+2. Updated the discount request form.&#x20;
+
+Administrator panel:
+
+1. Added the ability to delete patients without bookings and invoices.
+2. Added the function to create a patient in the Simplybook system.
+3. Display information about clients in the SimplyBook system with specified email addresses.&#x20;
+
+Patient personal account:
+
+1. Updated the algorithm for processing and loading data.
+2. Updated the form for editing the patient's personal data.
+3. Added a new section: "[Horowitz Questionnaire](en/menu/lichnyi-kabinet-pacienta.md#horowitz-questionnaire)." In this section, the patient can independently complete the questionnaire and view existing ones.
+4. Updated logout functionality.
+
 ### September 30, 2023
 
 Changes have been made to the Questionnaire section:

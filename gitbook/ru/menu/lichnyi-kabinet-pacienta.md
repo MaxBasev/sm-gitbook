@@ -9,6 +9,7 @@
 * [Функции личного кабинета](lichnyi-kabinet-pacienta.md#funkcii-lichnogo-kabineta)
   * [Домашняя страница](lichnyi-kabinet-pacienta.md#domashnyaya-stranica)
   * [Медицинские записи](lichnyi-kabinet-pacienta.md#medicinskie-zapisi)
+  * [Horowitz questionnaire](lichnyi-kabinet-pacienta.md#horowitz-questionnaire)
   * [Микроскопия](lichnyi-kabinet-pacienta.md#mikroskopiya)
   * [Бронирования](lichnyi-kabinet-pacienta.md#bronirovaniya)
   * [Инвойсы](lichnyi-kabinet-pacienta.md#invoisy)
@@ -111,6 +112,16 @@
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+#### Horowitz questionnaire
+
+В данном разделе, пациент самостоятельно может заполнить опросник Horowitz. Результаты данного опросника необходимы доктору, для проведения более качественной диагностики. После заполнения опросника, изменить его нельзя.
+
+<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 #### Бронирования
 

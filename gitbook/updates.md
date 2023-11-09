@@ -4,6 +4,13 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### November 9, 2023
+
+1. Additional control has been introduced on the creation of new clients. Updates have been made to the client authorization and registration functions.&#x20;
+2. Added control over the format of data entry with the client's first and last name.&#x20;
+3. A page has been added to sign up for an online consultation with Dr. Yana.&#x20;
+4. Home page styling errors have been fixed.
+
 ### October 10, 2023
 
 Dashboard system:

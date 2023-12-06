@@ -4,6 +4,24 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### November 30, 2023
+
+1. Introduced styling restrictions across pages.
+2. Altered the logic of organizing page structures in the Dashboard and the client application.
+3. Added additional control for working with the database.
+
+### November 20, 2023
+
+1. Prepared for standardizing all phone numbers to a unified format.
+2. Implemented additional settings for client-side image processing.
+3. Accelerated data processing functions on the server.
+
+### November 15, 2023
+
+1. Updated the staff authorization algorithm in the Dashboard.
+2. Modified the algorithm for working with SimplyBook regarding schedule management.
+3. Added control for manually creating users in the system.
+
 ### November 9, 2023
 
 1. Additional control has been introduced on the creation of new clients. Updates have been made to the client authorization and registration functions.&#x20;

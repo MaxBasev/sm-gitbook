@@ -4,6 +4,37 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### January 20, 2023
+
+* Performed preventive server cleanup.
+* Changes were made to the roles of staff members and added restrictions on working with pages.
+* Performed a server check with the database.
+
+### January 12, 2023
+
+* Changes were made to the functions for generating a schedule in SimplyBook.
+
+### December 27, 2023
+
+* Improved algorithm for sorting data in tables in Dashboard.
+* Improved algorithm of data processing when generating bookings.
+
+### December 20, 2023
+
+* Performed additional optimization of client application styles for different browsers.
+
+### December 15, 2023
+
+* Performed server status check.
+* Performed preventive cleaning of the server.
+* Certificates were checked, settings were made.
+* Optimization performed.
+
+### December 7, 2023
+
+* Added restrictions for different staff roles.
+* Added control when working with user card.
+
 ### November 30, 2023
 
 1. Introduced styling restrictions across pages.

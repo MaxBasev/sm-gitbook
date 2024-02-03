@@ -96,6 +96,7 @@
     * [Recent invoices](en/menu/invoices-section/last-invoices.md)
     * [Creating a new invoice](en/menu/invoices-section/creating-new-invoice.md)
     * [Editing an invoice](en/menu/invoices-section/edit-invoice.md)
+    * [Add Invoice Payment](en/menu/invoices-section/add-invoice-payment.md)
     * [Templates (viewing, creating, editing, and applying)](en/menu/invoices-section/templates.md)
     * [Viewing all invoices](en/menu/invoices-section/see-all-invoices.md)
   * [Payments section](en/menu/payments-section/README.md)

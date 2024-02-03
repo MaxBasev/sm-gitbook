@@ -8,7 +8,7 @@
 
 Invoice Section:
 
-* Added a new function for adding invoice payment.
+* Added a new function for [adding invoice payment](en/menu/invoices-section/add-invoice-payment.md).
 * When adding a payment with a new feature, the invoice is automatically marked as "Paid in full" when the full amount of the invoice is entered.
 * Changes have been made to the structure of invoices.
 * Optimization of functions related to invoices has been performed.

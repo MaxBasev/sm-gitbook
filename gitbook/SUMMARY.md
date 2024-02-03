@@ -41,6 +41,7 @@
     * [Последние инвойсы](ru/menu/invoices-section/last-invoices.md)
     * [Создание нового инвойса](ru/menu/invoices-section/creating-new-invoice.md)
     * [Редактирование инвойса](ru/menu/invoices-section/edit-invoice.md)
+    * [Внесение оплаты инвойса](ru/menu/invoices-section/vnesenie-oplaty-invoisa.md)
     * [Шаблоны (просмотра, создание, редактирование и применение)](ru/menu/invoices-section/templates.md)
     * [Просмотр всех инвойсов](ru/menu/invoices-section/see-all-invoices.md)
   * [Раздел платежей](ru/menu/payments-section/README.md)

@@ -4,13 +4,27 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
-### January 20, 2023
+### February 3, 2024
+
+Invoice Section:
+
+* A new feature has been added for staggered payment of an invoice.
+* When adding a payment with a new feature, the invoice is automatically marked as "Paid in full" when the full amount of the invoice is entered.
+* Changes have been made to the structure of invoices.
+* Optimization of functions related to invoices has been performed.
+* Functions in the client's personal cabinet have been updated.
+
+### February 1, 2024
+
+Fixed an error in forming functions after full payment of an invoice.
+
+### January 20, 2024
 
 * Performed preventive server cleanup.
 * Changes were made to the roles of staff members and added restrictions on working with pages.
 * Performed a server check with the database.
 
-### January 12, 2023
+### January 12, 2024
 
 * Changes were made to the functions for generating a schedule in SimplyBook.
 

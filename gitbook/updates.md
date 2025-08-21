@@ -4,6 +4,10 @@
 **If you don't see the update in Dashboard, refresh the page with a cache cleanup. For Windows: "Ctrl + Shift + R", for Mac: "Cmd + Shift + R" (the combination may be different, depending on your browser).**
 {% endhint %}
 
+### August 21, 2025
+
+Invoice Section: Added functionality to load procedures from client's Treatment Lists directly into invoices.
+
 ### February 3, 2024
 
 Invoice Section:

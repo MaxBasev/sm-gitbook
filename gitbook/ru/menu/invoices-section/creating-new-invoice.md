@@ -128,4 +128,4 @@ layout: landing
 
 Пример страницы создания инвойса с заполненными полями:
 
-<figure><img src="../../../.gitbook/assets/sybillehealth.com_dashboard_invoice_create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/invoice.jpg" alt=""><figcaption></figcaption></figure>

@@ -20,11 +20,25 @@ In the image, the input of general invoice data:
 
 1 — Selecting the client to whom the invoice should be added. When clicking on the input field, a list of all patients appears. It is not enough to simply input the client's data; you need to select the client from the list for correct addition. This field is mandatory.
 
-After selecting the client, if the client has bookings, a field for selecting a booking appears:
+After selecting a client, two additional fields appear, as shown in the image:
+
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
+**First field:** selection of a booking from the list to which the invoice needs to be linked. This field is not required. After selecting a booking from the list, the invoice start and end date fields are filled automatically (they can also be changed manually).
 
 <figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
-This field is optional. After selecting a booking, the dates for which the invoice is being created are automatically filled (they can be manually changed).
+**Second field:** list of treatment lists created for the client. In this field, you can select one or several treatment lists and, by clicking the "Add Treatments" button, add all treatments from these treatment lists to the invoice. This field is not required. An example of a filled field is shown in the image:
+
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+
+**Notes:**
+
+* This field only works for adding treatments to the invoice. Unchecking the checkbox after adding treatments to the invoice does not affect the list of treatments in the invoice.
+* Treatments are added to the invoice only after clicking the "Add Treatments" button.
+* When adding treatments from several treatment lists, as well as when repeatedly adding treatments from treatment lists, the total quantity of duplicate treatments is summed up.
+* To make it easier to track duplicate treatments, the quantity of treatments is displayed in two values: the number of unique treatments and the total quantity shown in parentheses. For example: if Treatment A was added to the Treatment List twice, and Treatment B was added once, then the number of unique treatments will be 2, and the total quantity will be 3.
+* To avoid confusion about how many treatments are already in the invoice, how many treatments are in the selected treatment lists, and how many treatments will be in the invoice after adding treatments from treatment lists, appropriate notes have been added to the field.
 
 2 — "Week" - selecting a conditional period for which the invoice is being created. This field is optional. It does not affect anything and serves as a visual aid when working with the invoice list. The available values are: 3 days, 10 days, 1 week, 2 weeks, ..., 8 weeks.
 
@@ -114,4 +128,4 @@ Immediately after saving the invoice, a new window opens with the generated invo
 
 Example of an invoice creation page with filled fields:
 
-<figure><img src="../../../.gitbook/assets/sybillehealth.com_dashboard_invoice_create.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/invoice (1).jpg" alt=""><figcaption></figcaption></figure>
